@@ -1,0 +1,42 @@
+name: Publish WebApp
+on:
+  repository_dispatch:
+    types: [publish_webapp]
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Read payload
+        run: |
+          echo "APP_ID=${{ github.event.client_payload.app_id }}" >> $GITHUB_ENV
+          echo "VERSION=${{ github.event.client_payload.version }}" >> $GITHUB_ENV
+          echo "ASSET_URL=${{ github.event.client_payload.asset_url }}" >> $GITHUB_ENV
+
+      - name: Prepare folder
+        run: mkdir -p "${APP_ID}/${VERSION}"
+
+      - name: Download ZIP
+        run: curl -L -o webapp.zip "${ASSET_URL}"
+
+      - name: Unzip
+        run: unzip -o webapp.zip -d "${APP_ID}/${VERSION}"
+
+      - name: Ensure index.html
+        run: test -f "${APP_ID}/${VERSION}/index.html" || (echo "index.html missing" && exit 1)
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add "${APP_ID}/${VERSION}"
+          git commit -m "Publish ${APP_ID} ${VERSION}" || echo "No changes"
+          git push origin gh-pages
