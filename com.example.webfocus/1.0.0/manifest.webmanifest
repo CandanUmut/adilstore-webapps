@@ -1,0 +1,9 @@
+{
+  "name": "com.example.webfocus",
+  "short_name": "webfocus",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
