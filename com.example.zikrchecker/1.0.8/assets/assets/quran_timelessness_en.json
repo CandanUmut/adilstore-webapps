@@ -1,0 +1,306 @@
+{
+  "id": "quran_timelessness_en_v1",
+  "title": "Qur’an Timelessness",
+  "lang": "en",
+  "about": "A structured, interactive digest of why the Qur’an is timeless—built from research on preservation, language, layered meanings, science hints, prophecies, its role as muhaymin, and universal ethics.",
+  "sections": [
+    {
+      "id": "continuity",
+      "title": "Continuity & Final Revelation",
+      "summary": "The Qur’an confirms earlier revelations and guards them (muhaymin) while completing the Abrahamic message.",
+      "cards": [
+        {
+          "id": "cont_verse_548",
+          "type": "verse",
+          "title": "Muhaymin (Guardian)",
+          "ref": "Qur’an 5:48",
+          "text": "We revealed to you the Book in truth, confirming the Scripture that came before it and as a guardian over it.",
+          "takeaway": "Frame the Qur’an as confirmation + criterion, not a break from earlier revelation."
+        },
+        {
+          "id": "cont_core",
+          "type": "idea",
+          "title": "Not a New Religion",
+          "bullets": [
+            "Affirms original divine origin of Torah and Gospel.",
+            "Corrects human alterations while preserving core truths.",
+            "Message: pure monotheism, righteousness, justice."
+          ],
+          "reflection": "How does ‘guardian over them’ change how you view the Torah & Gospel?"
+        },
+        {
+          "id": "cont_action",
+          "type": "action",
+          "title": "Practice",
+          "text": "Read 5:48 and write one sentence on how it guides your approach to interfaith conversations."
+        }
+      ]
+    },
+    {
+      "id": "preservation",
+      "title": "Preservation of the Qur’an",
+      "summary": "A uniquely dual transmission (memorization + writing), early compilation, and unified text.",
+      "cards": [
+        {
+          "id": "pres_verse_159",
+          "type": "verse",
+          "title": "Divine Pledge",
+          "ref": "Qur’an 15:9",
+          "text": "Indeed, We sent down the Reminder, and indeed We are its guardian.",
+          "takeaway": "Believers see history as fulfilling this promise."
+        },
+        {
+          "id": "pres_dual",
+          "type": "fact",
+          "title": "Dual Preservation",
+          "text": "From the Prophet’s lifetime: large-scale memorization (ḥifẓ) and written recording by dedicated scribes; verified before acceptance."
+        },
+        {
+          "id": "pres_compilation",
+          "type": "timeline",
+          "title": "Compilation Highlights",
+          "items": [
+            "632–634 CE: Abu Bakr commissions a master copy via Zayd b. Thābit with multi-witness verification.",
+            "c. 650 CE: ‘Uthmān standardizes copies for major regions; prevents variant proliferation."
+          ]
+        },
+        {
+          "id": "pres_ms",
+          "type": "idea",
+          "title": "Manuscript Consistency",
+          "bullets": [
+            "Early codices align in content with today’s Qur’an (orthographic differences don’t alter doctrine).",
+            "Living oral tradition cross-checks written transmission."
+          ]
+        },
+        {
+          "id": "pres_action",
+          "type": "action",
+          "title": "Practice",
+          "text": "Memorize 15:9. In one paragraph, note why combined oral/written preservation matters."
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "Linguistic Miracle (I‘jāz)",
+      "summary": "A unique register—neither poetry nor typical prose—with inimitable precision and cadence.",
+      "cards": [
+        {
+          "id": "lang_challenge",
+          "type": "verse",
+          "title": "Open Challenge",
+          "ref": "Qur’an 2:23",
+          "text": "If you are in doubt… produce one surah like it…",
+          "takeaway": "A standing invitation to test the claim."
+        },
+        {
+          "id": "lang_form",
+          "type": "idea",
+          "title": "Unprecedented Form",
+          "bullets": [
+            "Fusion of rhyme, rhythm, and rhetoric without fixed meter.",
+            "Concise yet layered phrasing; precise lexical choices.",
+            "Sustained divine voice across 23 years."
+          ],
+          "reflection": "What makes a text feel ‘beyond time’ to you—form, content, or both?"
+        },
+        {
+          "id": "lang_action",
+          "type": "action",
+          "title": "Practice",
+          "text": "Listen to a recitation of a short surah and journal how the sound shapes your understanding."
+        }
+      ]
+    },
+    {
+      "id": "layers",
+      "title": "Multi-Layered Meaning & Relevance",
+      "summary": "One verse guides the individual, family, and society—across ages.",
+      "cards": [
+        {
+          "id": "layers_justice",
+          "type": "verse",
+          "title": "Justice Without Bias",
+          "ref": "Qur’an 4:135",
+          "text": "Stand firmly for justice… even against yourselves or parents.",
+          "takeaway": "A perennial ethical anchor."
+        },
+        {
+          "id": "layers_universal",
+          "type": "idea",
+          "title": "Universals Over Particulars",
+          "bullets": [
+            "Emphasis on justice, mercy, patience, gratitude, stewardship.",
+            "Historical stories framed for general lessons (e.g., Yusuf, 12:111)."
+          ]
+        },
+        {
+          "id": "layers_reflect",
+          "type": "reflection",
+          "title": "Reflect",
+          "prompt": "Which Qur’anic value do you most need this week—and why?"
+        }
+      ]
+    },
+    {
+      "id": "science_hints",
+      "title": "Scientific Hints & Consistency",
+      "summary": "Not a textbook—yet free of ancient myths and strikingly aligned where it speaks.",
+      "cards": [
+        {
+          "id": "sci_embryo",
+          "type": "verse",
+          "title": "Embryonic Stages",
+          "ref": "Qur’an 23:12–14",
+          "text": "We made the drop into a clinging substance (‘alaqah), then a chewed-like lump (muḍghah)…",
+          "note": "Presented as signs; Muslims avoid over-claiming specifics."
+        },
+        {
+          "id": "sci_cosmos",
+          "type": "verse",
+          "title": "Expanding Heaven",
+          "ref": "Qur’an 51:47; 21:30",
+          "text": "We built the heaven with might and We are surely expanding it; the heavens and earth were once joined, then We split them asunder."
+        },
+        {
+          "id": "sci_mountains",
+          "type": "verse",
+          "title": "Mountains like Pegs",
+          "ref": "Qur’an 78:6–7; 16:15",
+          "text": "We made the mountains as pegs… set firm so it does not shake with you."
+        },
+        {
+          "id": "sci_seas",
+          "type": "verse",
+          "title": "Barriers Between Seas",
+          "ref": "Qur’an 55:19–20; 25:53",
+          "text": "He released the two seas… between them is a barrier they do not transgress."
+        },
+        {
+          "id": "sci_orbits",
+          "type": "verse",
+          "title": "Celestial Orbits",
+          "ref": "Qur’an 21:33; 36:38",
+          "text": "The sun and moon each float in an orbit; the sun runs to its appointed course."
+        },
+        {
+          "id": "sci_method",
+          "type": "idea",
+          "title": "Method Note",
+          "text": "These are signs to inspire reflection, not shifting ‘proofs’ tied to transient theories."
+        }
+      ]
+    },
+    {
+      "id": "prophecy",
+      "title": "Prophecies & Unseen",
+      "summary": "Specific, time-bound prophecies and unseen reports strengthen credibility.",
+      "cards": [
+        {
+          "id": "prop_romans",
+          "type": "verse",
+          "title": "Roman Comeback",
+          "ref": "Qur’an 30:2–4",
+          "text": "The Romans have been defeated… but within three to nine years they will be victorious. On that day the believers will rejoice."
+        },
+        {
+          "id": "prop_makkah",
+          "type": "verse",
+          "title": "Return to Makkah",
+          "ref": "Qur’an 28:85",
+          "text": "He who ordained the Qur’an to you will surely bring you back to the place of return."
+        },
+        {
+          "id": "prop_action",
+          "type": "reflection",
+          "title": "Reflect",
+          "prompt": "How do fulfilled prophecies affect your trust in unseen guidance?"
+        }
+      ]
+    },
+    {
+      "id": "muhaymin",
+      "title": "Qur’an as Guardian over Earlier Scripture",
+      "summary": "Confirms truth, corrects distortions, restores pure monotheism and prophet dignity.",
+      "cards": [
+        {
+          "id": "mh_core",
+          "type": "idea",
+          "title": "Confirm & Correct",
+          "bullets": [
+            "Upholds shared ethics with Torah/Gospel (justice, charity, truth).",
+            "Clarifies theology (strict tawḥīd; reject ‘Three’—4:171).",
+            "Defends prophets from slanderous attributions."
+          ]
+        },
+        {
+          "id": "mh_171",
+          "type": "verse",
+          "title": "Clarifying About Jesus",
+          "ref": "Qur’an 4:171; 5:73,75",
+          "text": "Say not: Three. Allah is but One. The Messiah, son of Mary, was only a messenger of Allah…"
+        }
+      ]
+    },
+    {
+      "id": "maqasid",
+      "title": "Universal Ethical & Legal Framework",
+      "summary": "Sharī‘ah centers on protecting faith, life, intellect, lineage, and property (maqāṣid).",
+      "cards": [
+        {
+          "id": "maq_five",
+          "type": "idea",
+          "title": "Five Essentials",
+          "bullets": [
+            "Faith: no compulsion (2:256).",
+            "Life: sanctity, just retribution with forgiveness encouraged (5:32; 2:179).",
+            "Intellect: avoid intoxicants (5:90).",
+            "Lineage/Family: chastity, marriage, parental kindness (17:32; 31:14).",
+            "Property: fair trade, zakat, no usury (4:29; 2:275–279)."
+          ]
+        },
+        {
+          "id": "maq_4913",
+          "type": "verse",
+          "title": "Human Dignity & Diversity",
+          "ref": "Qur’an 49:13; 17:70",
+          "text": "We created you into peoples and tribes so you may know one another… The most noble is the most righteous. We honored the children of Adam."
+        },
+        {
+          "id": "maq_action",
+          "type": "action",
+          "title": "Practice",
+          "text": "Pick one maqasid to strengthen this week and define a concrete step (e.g., reduce waste as stewardship)."
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Call to Reflection",
+      "summary": "A living guidance inviting direct engagement.",
+      "cards": [
+        {
+          "id": "conc_482",
+          "type": "verse",
+          "title": "Internal Consistency",
+          "ref": "Qur’an 4:82",
+          "text": "Had it been from other than Allah, they would have found in it much contradiction."
+        },
+        {
+          "id": "conc_1788",
+          "type": "verse",
+          "title": "Open Invitation",
+          "ref": "Qur’an 17:88",
+          "text": "If humankind and jinn gathered to produce the like of this Qur’an, they could not produce the like of it."
+        },
+        {
+          "id": "conc_action",
+          "type": "action",
+          "title": "Next Step",
+          "text": "Read one short surah daily this week and journal a single take-away each day."
+        }
+      ]
+    }
+  ]
+}
