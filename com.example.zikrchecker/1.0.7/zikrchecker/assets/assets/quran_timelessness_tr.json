@@ -1,0 +1,306 @@
+{
+  "id": "quran_timelessness_tr_v1",
+  "title": "Kur’an’ın Zamanüstülüğü",
+  "lang": "tr",
+  "about": "Kur’an’ın niçin zamanüstü olduğuna dair etkileşimli bir özet: korunmuşluk, dil mucizesi, çok katmanlı anlam, bilime işaretler, gayb haberleri, önceki vahiyler üzerindeki muhaymin oluşu ve evrensel etik çerçeve.",
+  "sections": [
+    {
+      "id": "continuity",
+      "title": "Süreklilik & Son Vahiy",
+      "summary": "Kur’an önceki vahiyleri tasdik eder ve (muhaymin olarak) onları korur; İbrahimî mesajı tamamlar.",
+      "cards": [
+        {
+          "id": "cont_verse_548",
+          "type": "verse",
+          "title": "Muhaymin (Koruyucu)",
+          "ref": "Kur’an 5:48",
+          "text": "Sana Kitabı hak ile indirdik; o, önündeki kitapları tasdik edici ve onlar üzerine bir gözetleyicidir.",
+          "takeaway": "Kur’an’ı kopuş değil; tasdik + ölçü (kriter) olarak konumlandır."
+        },
+        {
+          "id": "cont_core",
+          "type": "idea",
+          "title": "Yeni Bir Din Değil",
+          "bullets": [
+            "Tevrat ve İncil’in ilahî aslını kabul eder.",
+            "Beşerî tahrifleri düzeltir; öz hakikatleri korur.",
+            "Mesaj: tevhid, salih amel, adalet."
+          ],
+          "reflection": "“Onlar üzerine gözetleyici” oluşu, Tevrat/İncil’e bakışını nasıl etkiliyor?"
+        },
+        {
+          "id": "cont_action",
+          "type": "action",
+          "title": "Uygulama",
+          "text": "5:48’i oku ve dinler arası konuşmalara yaklaşımını nasıl yönlendirdiğini tek cümle yaz."
+        }
+      ]
+    },
+    {
+      "id": "preservation",
+      "title": "Kur’an’ın Korunmuşluğu",
+      "summary": "Eşsiz çift aktarım (hıfz + yazı), erken derleme ve birleştirilmiş metin.",
+      "cards": [
+        {
+          "id": "pres_verse_159",
+          "type": "verse",
+          "title": "İlâhî Teminat",
+          "ref": "Kur’an 15:9",
+          "text": "Şüphesiz zikri Biz indirdik; onun koruyucusu da Biziz.",
+          "takeaway": "Mü’minler tarihi bu vaadin tecellisi olarak görür."
+        },
+        {
+          "id": "pres_dual",
+          "type": "fact",
+          "title": "Çift Koruma",
+          "text": "Nebi hayattayken: geniş çaplı ezber (hıfz) ve vahiy kâtiplerince yazım; kabulden önce karşılaştırmalı doğrulama."
+        },
+        {
+          "id": "pres_compilation",
+          "type": "timeline",
+          "title": "Derleme Başlıkları",
+          "items": [
+            "632–634: Ebû Bekir döneminde Zeyd b. Sâbit öncülüğünde çok-şahitli ana nüsha.",
+            "650 civarı: Osman döneminde standart nüshalar; varyantların çoğalması önlenir."
+          ]
+        },
+        {
+          "id": "pres_ms",
+          "type": "idea",
+          "title": "Yazma Tutarlılığı",
+          "bullets": [
+            "Erken mushaflar bugünkü Kur’an’la muhtevada örtüşür (yazım farkları inancı değiştirmez).",
+            "Canlı sözlü gelenek yazılı aktarımı çapraz doğrular."
+          ]
+        },
+        {
+          "id": "pres_action",
+          "type": "action",
+          "title": "Uygulama",
+          "text": "15:9’u ezberle. Hıfz + yazının birlikte olmasının niçin kritik olduğunu bir paragraf not et."
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "Dil Mucizesi (İ‘câz)",
+      "summary": "Ne şiir ne sıradan nesir; eşsiz bir üslup, taklit edilemez bir kesinlik ve ahenk.",
+      "cards": [
+        {
+          "id": "lang_challenge",
+          "type": "verse",
+          "title": "Açık Meydan Okuma",
+          "ref": "Kur’an 2:23",
+          "text": "Şüphedeyseniz onun benzeri bir sûre getirin…",
+          "takeaway": "İddianın sınanmasına daimî davet."
+        },
+        {
+          "id": "lang_form",
+          "type": "idea",
+          "title": "Emsalsiz Form",
+          "bullets": [
+            "Ölçüye bağlı olmadan kafiye, ritim ve belâgatın terkibi.",
+            "Kısa ama katmanlı ifadeler; dakik kelime seçimi.",
+            "23 yılda kesintisiz ilahî hitap."
+          ],
+          "reflection": "Bir metni ‘zamanüstü’ hissettiren şey biçim mi, muhteva mı—yoksa ikisi mi?"
+        },
+        {
+          "id": "lang_action",
+          "type": "action",
+          "title": "Uygulama",
+          "text": "Kısa bir sûre tilavetini dinle; sesin anlamı nasıl şekillendirdiğini not al."
+        }
+      ]
+    },
+    {
+      "id": "layers",
+      "title": "Çok Katmanlı Anlam & Relevans",
+      "summary": "Bir ayet; fert, aile ve toplumu—çağlar boyu—birlikte terbiye eder.",
+      "cards": [
+        {
+          "id": "layers_justice",
+          "type": "verse",
+          "title": "Tarafsız Adalet",
+          "ref": "Kur’an 4:135",
+          "text": "Kendinize ve ana-babanıza karşı bile olsa adaleti ayakta tutun…",
+          "takeaway": "Çağdaş-evrensel etik çıpa."
+        },
+        {
+          "id": "layers_universal",
+          "type": "idea",
+          "title": "Tikelden Ziyade Tümel",
+          "bullets": [
+            "Adalet, merhamet, sabır, şükür, emanetçilik vurgusu.",
+            "Tarihî kıssalar, genel derslerle çerçevelenir (örn. Yusuf, 12:111)."
+          ]
+        },
+        {
+          "id": "layers_reflect",
+          "type": "reflection",
+          "title": "Düşün",
+          "prompt": "Bu hafta en çok hangi Kur’ânî değere ihtiyacın var—neden?"
+        }
+      ]
+    },
+    {
+      "id": "science_hints",
+      "title": "Bilime İşaretler & Tutarlılık",
+      "summary": "Bir ders kitabı değil; fakat kadim mitlerden ari ve değindiği yerde hayranlık uyandıran uyum.",
+      "cards": [
+        {
+          "id": "sci_embryo",
+          "type": "verse",
+          "title": "Embriyo Aşamaları",
+          "ref": "Kur’an 23:12–14",
+          "text": "Nutfeyi ‘alakaya, sonra çiğnenmiş et parçasına (mudğa)… dönüştürdük.",
+          "note": "Bunlar işaretlerdir; Müslümanlar aşırı iddiadan kaçınır."
+        },
+        {
+          "id": "sci_cosmos",
+          "type": "verse",
+          "title": "Genişleyen Gök",
+          "ref": "Kur’an 51:47; 21:30",
+          "text": "Göğü kudretle bina ettik ve şüphesiz Biz genişletmekteyiz; göklerle yer bitişik iken ayırdık."
+        },
+        {
+          "id": "sci_mountains",
+          "type": "verse",
+          "title": "Kazık Gibi Dağlar",
+          "ref": "Kur’an 78:6–7; 16:15",
+          "text": "Dağları kazıklar kıldık… yeryüzü sizinle sallanmasın diye sabitledik."
+        },
+        {
+          "id": "sci_seas",
+          "type": "verse",
+          "title": "Denizler Arası Engel",
+          "ref": "Kur’an 55:19–20; 25:53",
+          "text": "İki denizi salıverdi… aralarında aşamadıkları bir engel vardır."
+        },
+        {
+          "id": "sci_orbits",
+          "type": "verse",
+          "title": "Feleklerde Seyir",
+          "ref": "Kur’an 21:33; 36:38",
+          "text": "Güneş ve ay, her biri bir yörüngede akıp gider; güneş de belirlenmiş menziline doğru koşar."
+        },
+        {
+          "id": "sci_method",
+          "type": "idea",
+          "title": "Yöntem Notu",
+          "text": "Bunlar düşünüşü kışkırtan ayetlerdir; gelip geçici teorilere bağlanan kanıt iddiası değil."
+        }
+      ]
+    },
+    {
+      "id": "prophecy",
+      "title": "Gayb Haberleri & Kehanetler",
+      "summary": "Zamana bağlı, somut gerçekleşmeler ve gaybî haberler güvenilirliği pekiştirir.",
+      "cards": [
+        {
+          "id": "prop_romans",
+          "type": "verse",
+          "title": "Romalıların Dönüşü",
+          "ref": "Kur’an 30:2–4",
+          "text": "Romalılar yenildi… fakat üç ile dokuz yıl içinde galip gelecekler. O gün mü’minler de sevinecek."
+        },
+        {
+          "id": "prop_makkah",
+          "type": "verse",
+          "title": "Mekke’ye Dönüş",
+          "ref": "Kur’an 28:85",
+          "text": "Sana Kur’an’ı farz kılan, seni elbette dönülecek yere döndürecektir."
+        },
+        {
+          "id": "prop_action",
+          "type": "reflection",
+          "title": "Düşün",
+          "prompt": "Gerçekleşen haberler, görünmeyen rehberliğe güvenini nasıl etkiliyor?"
+        }
+      ]
+    },
+    {
+      "id": "muhaymin",
+      "title": "Önceki Kitaplar Üzerinde Kur’an’ın Muhayminliği",
+      "summary": "Hakikati tasdik eder, tahrifi tashih eder; saf tevhidi ve peygamberlerin izzetini iade eder.",
+      "cards": [
+        {
+          "id": "mh_core",
+          "type": "idea",
+          "title": "Tasdik & Tashih",
+          "bullets": [
+            "Tevrat/İncil ile ortak ahlak (adalet, infak, doğruluk) sürer.",
+            "Teoloji netleşir (katıksız tevhid; ‘Üç demeyin’—4:171).",
+            "Peygamberlere iftira mahiyetli anlatılar reddedilir."
+          ]
+        },
+        {
+          "id": "mh_171",
+          "type": "verse",
+          "title": "İsa Hakkında Tashih",
+          "ref": "Kur’an 4:171; 5:73,75",
+          "text": "Üç demeyin; Allah ancak bir tek ilahtır. Meryem oğlu Mesih de ancak Allah’ın elçisidir…"
+        }
+      ]
+    },
+    {
+      "id": "maqasid",
+      "title": "Evrensel Etik ve Hukukî Çerçeve",
+      "summary": "Şeriat; din, hayat, akıl, nesil ve malın korunmasına (makāsıd) odaklanır.",
+      "cards": [
+        {
+          "id": "maq_five",
+          "type": "idea",
+          "title": "Beş Zarurî",
+          "bullets": [
+            "Din: zorlama yok (2:256).",
+            "Hayat: dokunulmazlık; kısas/affın teşviki (5:32; 2:179).",
+            "Akıl: sarhoş edicilerden kaçın (5:90).",
+            "Nesil/Aile: iffetsizlikten kaçın, nikâh, ebeveyne ihsan (17:32; 31:14).",
+            "Mal: meşru ticaret, zekât, faizsiz ekonomi (4:29; 2:275–279)."
+          ]
+        },
+        {
+          "id": "maq_4913",
+          "type": "verse",
+          "title": "İnsan Onuru & Çeşitlilik",
+          "ref": "Kur’an 49:13; 17:70",
+          "text": "Sizi milletler ve kabileler yaptık ki tanışasınız… En üstün olanınız, en takvâlı olanınızdır. Âdemoğlunu şerefli kıldık."
+        },
+        {
+          "id": "maq_action",
+          "type": "action",
+          "title": "Uygulama",
+          "text": "Bu hafta güçlendireceğin bir makasıdı seç; somut bir adım belirle (örn. israfı azalt—emanetçilik)."
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Davet & Tezekkür",
+      "summary": "Doğrudan muhatabına seslenen canlı hidayet.",
+      "cards": [
+        {
+          "id": "conc_482",
+          "type": "verse",
+          "title": "İç Tutarlılık",
+          "ref": "Kur’an 4:82",
+          "text": "Eğer Allah’tan başkası tarafından olsaydı, içinde birçok çelişki bulurlardı."
+        },
+        {
+          "id": "conc_1788",
+          "type": "verse",
+          "title": "Açık Davet",
+          "ref": "Kur’an 17:88",
+          "text": "İnsanlar ve cinler bir araya gelse, onun benzerini getiremezler."
+        },
+        {
+          "id": "conc_action",
+          "type": "action",
+          "title": "Sonraki Adım",
+          "text": "Bu hafta her gün kısa bir sûre oku; tek bir çıkarımını not al."
+        }
+      ]
+    }
+  ]
+}
