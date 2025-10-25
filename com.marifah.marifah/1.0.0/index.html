@@ -28,5 +28,12 @@
 
 <body>
 <script src="flutter_bootstrap.js" async></script>
+<script type="module">
+  import * as pdfjsLib from 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/5.4.149/pdf.min.mjs';
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/5.4.149/pdf.worker.min.mjs';
+  // expose to Syncfusion's web adapter
+  window.pdfjsLib = pdfjsLib;
+</script>
 </body>
 </html>
