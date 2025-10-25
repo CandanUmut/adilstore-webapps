@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "lang": "en",
+    "title": "Ma'rifatullah — Deep Research Dossier",
+    "version": "1.0.0",
+    "updated_at": "2025-10-24"
+  },
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "Purpose of Creation & Ma'rifah",
+      "summary": "We were created to worship and know Allah; ma'rifah elevates worship from form to presence (ihsan).",
+      "bullets": [
+        "“I did not create jinn and humankind except to worship Me” (Q 51:56) — worship entails knowing, loving, obeying.",
+        "Ma'rifah (knowing Allah) is the heart’s light that turns ritual into conscious devotion (ihsan).",
+        "The Names guide orientation: Who is the One I face, love, fear, hope for?",
+        "True knowledge births humility, gratitude, and service.",
+        "Teleology: The human fitrah seeks meaning beyond self; ma'rifah fulfills that trajectory."
+      ],
+      "tags": ["teleology","fitrah","ihsan"],
+      "questions": [
+        "What intention do I bring to today’s worship?",
+        "Which Name will I live by in the next 24 hours?"
+      ],
+      "level": "intro",
+      "est_read_min": 5
+    },
+    {
+      "id": "sources",
+      "title": "Sources of Knowing Allah",
+      "summary": "Revelation anchors knowledge; the Prophetic life embodies it; creation and reason corroborate it.",
+      "bullets": [
+        "Qur'an: explicit Names and implicit signs (ayat) in self and cosmos (Q 41:53).",
+        "Sunnah: Prophetic mercy, justice, balance embody the Names.",
+        "Creation: order, beauty, contingency mirror Divine attributes.",
+        "Reason: operates within revealed guidance; guards from fancy and superstition.",
+        "Scholarly tradition: tafsir, hadith, kalam, tasawwuf as complementary lenses."
+      ],
+      "refs": [
+        "Q 41:53; Q 59:22–24 (Names); Sahih hadith on ihsan (Jibril).",
+        "Al-Ghazali, Ihya’ ‘Ulum al-Din; Ibn al-Qayyim; al-Nawawi."
+      ],
+      "tags": ["revelation","sunnah","cosmos","reason"],
+      "level": "intro",
+      "est_read_min": 6
+    },
+    {
+      "id": "names_theology",
+      "title": "The Beautiful Names (Asma’ al-Husna)",
+      "summary": "The Names are portals of guidance; they are known without likening Allah to creation and without negation.",
+      "bullets": [
+        "Affirmation without anthropomorphism (tashbih) and transcendence without negation (ta‘til).",
+        "Names cluster: Mercy (Rahman/Rahim), Knowledge (Alim/Khabeer), Power (Qadir/Qahhar), Beauty & Majesty (Jamal/Jalal).",
+        "Living the Names = aligning intention, action, and character with Divine guidance.",
+        "Balance: hope (raja’) with fear (khawf), love (mahabbah) with awe (haybah).",
+        "Guarding creed (aqidah) ensures spiritual safety while tasting proximity."
+      ],
+      "tags": ["aqidah","asma","balance"],
+      "questions": ["Which Name do I under-live or overemphasize?"],
+      "level": "intermediate",
+      "est_read_min": 7
+    },
+    {
+      "id": "classical_arguments",
+      "title": "Classical Arguments for God",
+      "summary": "Rational signs point to a Necessary Being of perfect attributes; proofs serve awakening, not pride.",
+      "bullets": [
+        "Kalam cosmological: begun universe ⇒ transcendent cause.",
+        "Contingency: contingent beings require a Necessary Existent.",
+        "Teleology: order, fitness-for-life, intelligibility suggest wisdom.",
+        "Moral: objective values fit best within a perfectly just source.",
+        "Use proofs as pointers that steady the heart alongside revelation."
+      ],
+      "tags": ["kalam","contingency","teleology","moral"],
+      "level": "intermediate",
+      "est_read_min": 6
+    },
+    {
+      "id": "science_awe",
+      "title": "Science, Cosmology, and Awe",
+      "summary": "Modern science widens tafakkur horizons without replacing revelation; awe nurtures gratitude and stewardship.",
+      "bullets": [
+        "Fine-tuning discourse: delicate constants compatible with life.",
+        "Complexity/Information: emergence invites humility before wisdom.",
+        "Quantum limits to naïve reductionism; epistemic modesty matters.",
+        "Awe states correlate with pro-sociality and ethical restraint.",
+        "Science as ayah-reading: stewardship (khilafah) and trust (amanah)."
+      ],
+      "tags": ["awe","cosmology","complexity","amanah"],
+      "level": "intermediate",
+      "est_read_min": 7
+    },
+    {
+      "id": "gaflah_map",
+      "title": "Map of Gaflah (Heedlessness)",
+      "summary": "Gaflah arises from ego (nafs), appetites (hawa), heedless environments, and attention capture.",
+      "bullets": [
+        "Roots: self-exaltation, desires, chronic distraction, despair.",
+        "Manifestations: ritual without heart, delay of repentance, moral numbness, cynicism.",
+        "Digital heedlessness: slot-machine feeds, novelty loops, dopamine drift.",
+        "Social vectors: consumerism, status games, performative piety (riya’).",
+        "Early warnings: sleep of heart, neglect of du‘a, loss of shame (haya’)."
+      ],
+      "tags": ["nafs","attention","riya","consumerism"],
+      "questions": ["Which inputs numb my heart daily?"],
+      "level": "intermediate",
+      "est_read_min": 6
+    },
+    {
+      "id": "awakening_cycle",
+      "title": "Awakening Cycle: Tawbah → Telafi → Istikrar → Hizmet",
+      "summary": "A practical loop for renewal: Awareness, Repentance, Repair, Consistency, and Service.",
+      "bullets": [
+        "Farkındalık: name it; don’t rationalize it.",
+        "Tawbah: regret + abandonment + resolve + where possible restitution.",
+        "Telafi (Repair): counter-acts (sadaka, extra prayer, fasting).",
+        "Istikrar (Consistency): small daily deeds loved by Allah.",
+        "Hizmet (Service): share benefit; light expands when given."
+      ],
+      "practices": [
+        "Immediate two-rak‘ah tawbah prayer after lapses.",
+        "Pair each slip with a concrete charity or help task within 24h."
+      ],
+      "tags": ["tawbah","habits","service"],
+      "level": "intro",
+      "est_read_min": 5
+    },
+    {
+      "id": "habit_formation",
+      "title": "Habit Science & Nafs Training",
+      "summary": "Design environments and routines that make obedience easy and disobedience hard.",
+      "bullets": [
+        "Cue → Routine → Reward: attach dhikr/recitation to stable cues (after salat, commutes).",
+        "Friction engineering: block, filter, schedule; remove triggers; add delays.",
+        "Replacement > suppression: swap with halal, meaningful activities.",
+        "Streak psychology: guard first 7, 30, 90 days with shields and allies.",
+        "Relapse math: treat a lapse as data; re-enter the cycle fast."
+      ],
+      "tags": ["habits","streak","environment","friction"],
+      "level": "intermediate",
+      "est_read_min": 6
+    },
+    {
+      "id": "takwa_definition",
+      "title": "Taqwa: Definition & Layers",
+      "summary": "Taqwa is guarding the heart from Allah’s displeasure by obeying commands and avoiding prohibitions.",
+      "bullets": [
+        "Heart layer: sincerity (ikhlas), presence (hudur), reliance (tawakkul).",
+        "Action layer: fara’id on time, halal integrity, guarding gaze and tongue.",
+        "Social layer: trustworthiness, justice, compassion, fulfilling amanah.",
+        "Economic layer: avoid riba, honesty in trade, modest consumption.",
+        "Crisis layer: sabr + shukr under trials and blessings."
+      ],
+      "tags": ["taqwa","ikhlas","sabr","shukr"],
+      "level": "intro",
+      "est_read_min": 6
+    },
+    {
+      "id": "takwa_ladder",
+      "title": "The Taqwa Ladder",
+      "summary": "A practical scaffold from personal discipline to communal benefit and ummatic service.",
+      "bullets": [
+        "Step 1: Personal—daily salat with presence, dhikr, Qur’an portion.",
+        "Step 2: Family—mercy at home, ties of kinship, shared learning.",
+        "Step 3: Community—masjid life, volunteering, local relief.",
+        "Step 4: Ummah & Humanity—projects that spread knowledge, justice, mercy.",
+        "Each higher step presumes the stability of the lower."
+      ],
+      "tags": ["ladder","community","service"],
+      "level": "intro",
+      "est_read_min": 5
+    },
+    {
+      "id": "digital_kalkanlar",
+      "title": "Digital Shields & Clean Timer",
+      "summary": "Guard the gates: design digital kalkanlar (shields) and run a clean-time counter with mercy-based resets.",
+      "bullets": [
+        "App/website block lists aligned with your known triggers.",
+        "Phone-free hours (post-Isha to post-Fajr) for sleep and dawn light.",
+        "Public commitment with a trusted buddy; immediate tawbah protocol.",
+        "Replace: walking, wudu’, dhikr beads, reading circles.",
+        "Metrics: ‘clean days’, ‘urges resisted’, ‘service acts after lapses’."
+      ],
+      "practices": [
+        "3–7–30–90 day clean milestones with sadaqah pledges.",
+        "Zikir micro-sets (e.g., after each urge: 10× istighfar + 1 good deed)."
+      ],
+      "tags": ["digital_detox","streaks","zikir"],
+      "level": "intro",
+      "est_read_min": 5
+    },
+    {
+      "id": "takwa_index",
+      "title": "Taqwa Index (TE) — Spec & Weights",
+      "summary": "A transparent, mercy-centered index to track practices without breeding pride; private by default.",
+      "bullets": [
+        "Foundations carry multipliers: obligatory on time ×2; halal income ×1.5; gaze/ tongue guard ×1.2.",
+        "Istikrar bonus: weekly consistency +10%; clean-timer milestones add one-off boosts.",
+        "Tawbah-boost: lapses followed by repair acts apply a recovery coefficient.",
+        "Hidden mode: suppresses public badges to fight riya’.",
+        "Community weight caps: service points limited unless personal foundations are stable."
+      ],
+      "data": {
+        "weights": {
+          "fard_prayers_on_time": 2.0,
+          "quran_daily_portion": 1.2,
+          "dhikr_daily": 1.1,
+          "halal_income_integrity": 1.5,
+          "guard_gaze_tongue": 1.2,
+          "charity_weekly": 1.1,
+          "service_monthly": 1.2
+        },
+        "bonuses": {
+          "consistency_week": 0.1,
+          "clean_7d": 5,
+          "clean_30d": 15,
+          "clean_90d": 40
+        },
+        "recovery": {
+          "tawbah_boost": 0.5,
+          "repair_act_min": 1
+        }
+      },
+      "tags": ["metrics","ethics","privacy"],
+      "questions": ["How can I keep score privately yet stay motivated?"],
+      "level": "intermediate",
+      "est_read_min": 8
+    },
+    {
+      "id": "percentiles",
+      "title": "Percentile Targets (Global Heuristics)",
+      "summary": "Approximate thresholds to visualize progress humbly; use as guideposts, not bragging rights.",
+      "bullets": [
+        ">25%: all fara’id on time + daily Qur’an/dhikr habit + basic halal integrity.",
+        ">5%: + weekly charity/service + guarded gaze/tongue + weekly study circle.",
+        ">1%: + consistent dawn routine (Fajr jama‘ah when possible) + monthly community project.",
+        "~1-in-1,000,000: multi-year consistency across worship, ethics, and service with hidden mode and zero-riba livelihood."
+      ],
+      "tags": ["percentiles","targets","heuristics"],
+      "level": "intermediate",
+      "est_read_min": 5
+    },
+    {
+      "id": "ethics_adab",
+      "title": "Ethics, Boundaries, and Adab",
+      "summary": "Seek Allah’s pleasure, not people’s gaze; keep creed safe; avoid sectarian harm.",
+      "bullets": [
+        "No anthropomorphism, no negation; follow sound creed.",
+        "Avoid riya’: prefer hidden good; keep TE private by default.",
+        "Stay within madhhab boundaries in ibadah; consult scholars for nuance.",
+        "Disagree with adab; seek unity on essentials and mercy on details.",
+        "Protect dignity: no shaming, no exposure of faults."
+      ],
+      "tags": ["adab","riya","madhhab","unity"],
+      "level": "intro",
+      "est_read_min": 5
+    },
+    {
+      "id": "family_society",
+      "title": "Family, Work, and Society",
+      "summary": "Ma'rifah blossoms when it reforms daily roles: family mercy, honest work, trustworthy citizenship.",
+      "bullets": [
+        "Home: gentleness, humor, shared worship and learning.",
+        "Work: amanah, excellence (ihsan), no riba/haram revenue.",
+        "Society: help the vulnerable; volunteer; be a bridge of mercy.",
+        "Digital citizenship: truthfulness, modesty, no harm (la darar).",
+        "Seasonal rhythms: Ramadan, Dhul-Hijjah, retreats, sadaqah plans."
+      ],
+      "tags": ["family","work","civics","seasons"],
+      "level": "intro",
+      "est_read_min": 6
+    },
+    {
+      "id": "daily_program",
+      "title": "Daily/Weekly Program",
+      "summary": "Minimal, sustainable program to internalize one Name at a time.",
+      "bullets": [
+        "Daily: one Name—read meaning, reflect 5–10 min, live one action.",
+        "After each prayer: short dhikr set + gratitude note.",
+        "Weekly: attend a circle; review notes; one charity or help act.",
+        "Monthly: mini-retreat (half day) + digital detox window.",
+        "Quarterly: reassess goals; re-balance the Ladder steps."
+      ],
+      "practices": [
+        "Attach reflection to fixed cues (post-prayer, commute).",
+        "Use clean timer + shields; pair slips with immediate repair."
+      ],
+      "tags": ["program","habits","reflection"],
+      "level": "intro",
+      "est_read_min": 5
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Core Terms",
+      "summary": "Quick meanings for the spiritual vocabulary used throughout.",
+      "bullets": [
+        "Ma'rifah: heart-knowledge of Allah that transforms worship.",
+        "Ihsan: worship Allah as if you see Him; if not, know He sees you.",
+        "Taqwa: guarding oneself from Allah’s displeasure.",
+        "Tawbah: sincere return with regret, abandonment, resolve, repair.",
+        "Fitrah: innate disposition oriented to truth and goodness."
+      ],
+      "level": "intro",
+      "est_read_min": 3
+    },
+    {
+      "id": "method_bibliography",
+      "title": "Method & Bibliography (Condensed)",
+      "summary": "Texts, methods, and disciplines we cross-wove, with humility about limits.",
+      "bullets": [
+        "Method: text analysis (Qur’an/hadith), classical commentaries, comparative ethics, habit science, sociology of religion.",
+        "Primary: Qur’an; Sahih hadith; Ghazali (Ihya’), Nawawi, Ibn al-Qayyim.",
+        "Secondary: habit formation, attention science, meaning-in-life research; selected cosmology/philosophy of religion texts.",
+        "Limitations: cultural variance, measurement bias, riya’ risk—thus privacy-first metrics.",
+        "Ethic: mercy, dignity, gradualism; no exposure of private struggles."
+      ],
+      "refs": [
+        "Al-Ghazali, Ihya’; Al-Nawawi, Riyad al-Salihin; Ibn al-Qayyim, Madarij.",
+        "Contemporary works on habits, attention, awe (general)."
+      ],
+      "level": "intermediate",
+      "est_read_min": 5
+    }
+  ]
+}

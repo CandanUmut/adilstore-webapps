@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "lang": "tr",
+    "title": "Ma‘rifetullah — Derin Araştırma Dosyası",
+    "version": "1.0.0-tr",
+    "updated_at": "2025-10-24"
+  },
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "Yaratılış Gayesi ve Ma‘rifet",
+      "summary": "İnsan ve cinler Allah’a kulluk etsin diye yaratıldı (Zâriyât 51/56); bu kulluk sadece şekil değil, Allah’ı bilmek, tanımak ve O’na yönelmektir. Bu bilinçli yakınlık ihsan mertebesidir.",
+      "bullets": [
+        "“Ben cinleri ve insanları ancak Bana ibadet etsinler diye yarattım.” (Zâriyât 51/56). Bu ibadet kuru hareket değil; bilmek, sevmek, boyun eğmek, güvenmek, şükretmektir.",
+        "Ma‘rifet (Allah’ı tanıma), ibadeti otomatik tekrardan şuurlu huzura taşır: bu da ihsan mertebesidir.",
+        "Kalbin gayesi, sadece dünyada başarılı olmak değil; Rabbini bilerek O’na yönelmektir.",
+        "İnsan fıtraten anlam arar. Dünyevî anlamlar yetmediğinde kalp Allah’ı bilmeye susar.",
+        "Gerçek bilgi kibri artırmaz; şükrü, merhameti ve hizmeti artırır."
+      ],
+      "tags": ["gayemiz", "fıtrat", "ihsan", "kulluk"],
+      "questions": [
+        "Bugünkü ibadetimde niyetim neydi, alışkanlık mıydı yoksa bilinçli yöneliş miydi?",
+        "Önümüzdeki 24 saat içinde hangi ismi yaşayacağım?"
+      ],
+      "level": "giriş",
+      "est_read_min": 5
+    },
+    {
+      "id": "sources",
+      "title": "Allah’ı Tanımanın Kaynakları",
+      "summary": "Allah’ı tanıma bilgisi vahiyden gelir; Resûl’ün ahlâkında yaşanır; kâinatta tefekkürle görülür; akıl da bu hakikati tasdik eder ve korur.",
+      "bullets": [
+        "Kur’ân: Allah’ın isim ve sıfatlarını hem açıkça bildirir hem de kâinattaki işaretlere (âyetlere) dikkat çeker: “Onlara âyetlerimizi hem dış dünyada hem kendi nefislerinde göstereceğiz.” (Fussilet 41/53).",
+        "Sünnet: Peygamber Efendimiz’in merhameti, adaleti, tevazusu; Rahmân, Adl, Halîm gibi isimlerin hayata yansımasıdır.",
+        "Yaratılmış âlem: Nizam, denge, güzellik, hikmet, ölçü… bunlar rastlantı değil, bir Mukaddir, bir Hakîm olduğuna delalet eder.",
+        "Akıl: Sadece serbest hayal kurmasın diye vahyin kılavuzluğunda işler; hurafeyi ayıklar, hakikati teyit eder.",
+        "İlim geleneği: Tefsir, hadis, fıkıh, kelâm, tasavvuf… Bunlar çatışan değil, birbirini tamamlayan pencerelerdir."
+      ],
+      "refs": [
+        "Fussilet 41/53; Haşr 59/22-24 (esmâ); Cibrîl Hadisi’nde ihsan tarifi (Buhârî, Müslim).",
+        "İmam Gazâlî – İhyâ; İbn Kayyim – Medâric; Nevevî – Riyâzü’s-Sâlihîn."
+      ],
+      "tags": ["vahiy", "sünnet", "kâinat", "akıl", "ilim"],
+      "level": "giriş",
+      "est_read_min": 6
+    },
+    {
+      "id": "names_theology",
+      "title": "Esmâü’l-Hüsnâ ve Akîde Dengesi",
+      "summary": "Allah’ın Güzel İsimleri (Esmâü’l-Hüsnâ), kulun Rabbini tanımasının kapılarıdır. Ancak bu tanıma; Allah’ı mahlûka benzetmeden (teşbih) ve sıfatları inkâr etmeden (ta‘til) yapılır.",
+      "bullets": [
+        "Ehl-i sünnet çizgisi: Allah’ı mahlûka benzetmezsin, ama O’nun bildirdiği isim ve sıfatları da inkâr etmezsin. ‘Tenzih’ ve ‘kabul’ birlikte yürür.",
+        "İsim kümeleri: Rahmân/Rahîm (rahmet), Alîm/Habîr (ilim), Kâdir/Kahhâr (kudret), Cemâl ve Celâl isimleri (güzellik ve heybet dengesi).",
+        "İsimleri yaşamak: Sadece dil ile tekrar değil; mesela Allah ‘er-Rahmân’dır → ben merhameti hayatıma nasıl yansıtıyorum?",
+        "Denge: Ümit (recâ) ile korku (havf), sevgi (muhabbet) ile haşyet (Allah korkusundan doğan saygı).",
+        "Sağlam akîde emniyet sağlar. Yanlış akîde; kibir, ölçüsüz cesaret ya da ümitsizlik doğurabilir."
+      ],
+      "tags": ["esmâ", "akîde", "tenzih", "muhabbet", "denge"],
+      "questions": [
+        "Bazı isimleri çok konuşup bazılarını hiç yaşamıyor olabilir miyim? (Mesela ‘Rahmet’i seviyorum ama ‘Adalet’i görmezden geliyorum gibi.)"
+      ],
+      "level": "orta",
+      "est_read_min": 7
+    },
+    {
+      "id": "classical_arguments",
+      "title": "Allah’ın Varlığına Dair Klasik Deliller",
+      "summary": "Kelâm ve felsefe geleneği, zorunlu bir varlığa (Vacibu’l-Vücûd) işaret eden deliller geliştirdi. Bu deliller imanı başlatabilir ama asıl amaç kalbin uyanmasıdır, kibir değil.",
+      "bullets": [
+        "Kozmolojik delil (hudûs): Âlem sonradan var olmuştur; sonradan var olan her şey bir başlatıcıya muhtaçtır → aşkın bir Yaratıcı.",
+        "İmkân delili (vücûb-imkân): Mümkün varlıklar kendi kendine zorunlu değildir; hepsi nihayetinde zorunlu bir varlığa dayanır.",
+        "Gaye-nizam (teleolojik) delili: İnce ayar, düzen, faydaya yönelik yapı → kör tesadüf mü, yoksa Hakîm bir irade mi?",
+        "Ahlâk delili: Nesnel adalet ve gerçek sorumluluk duygusu, mutlak adil ve her şeyi bilen bir otoriteyi gerektirir.",
+        "Delil, ‘ben daha zekiyim’ demek için değil; kalbi sarsıp gafletten uyandırmak içindir."
+      ],
+      "tags": ["kelâm", "hudûs", "imkân", "gaye-nizam", "ahlâk"],
+      "level": "orta",
+      "est_read_min": 6
+    },
+    {
+      "id": "science_awe",
+      "title": "Bilim, Kozmoloji ve Heybet (Hayret)",
+      "summary": "Modern bilim, Kur’ân’ın ‘ayetlere bakın’ çağrısını daha da derinleştiriyor. Bilim vahyin yerine geçmez ama tefekkürü zenginleştirir.",
+      "bullets": [
+        "İnce ayar meselesi: Evrenin fizik sabitleri yaşamı mümkün kılacak kadar hassas görünüyor. Bu, kör şans iddiasını zorlaştırıyor.",
+        "Karmaşıklık ve bilgi: Canlılık, bilinç, düzenli bilgi akışı… ‘Tesadüf’ tek kelime olarak artık açıklama üretmekte zorlanıyor.",
+        "Kuantum ve modern fizik, mutlak kontrol zannımızı kırar: Biz her şeyi anlamıyoruz, aslında çok azını biliyoruz → tevazu.",
+        "Awe/hayret duygusu psikolojide şükür, tevazu ve başkalarına fayda verme davranışıyla ilişkili bulunuyor.",
+        "Bilgi emanet demektir (emanet / hilafet): Dünya bize sadece tüketelim diye verilmedi; adaletle, merhametle koruyalım diye verildi."
+      ],
+      "tags": ["kozmoloji", "ince_ayar", "hayret", "emanet", "tevazu"],
+      "level": "orta",
+      "est_read_min": 7
+    },
+    {
+      "id": "gaflah_map",
+      "title": "Gaflet Haritası",
+      "summary": "Gaflet (kalbin uyuması) genelde nefisten, hevâdan, dikkat dağınıklığından, dünyevîleşmiş çevreden ve umutsuzluktan beslenir.",
+      "bullets": [
+        "Kökler: Nefsini merkeze koyma (benlik şişmesi), hevâ (kontrolsüz arzu), sürekli uyarıcı tüketmek, ‘zaten düzelmeyeceğim’ diye ümitsizleşmek.",
+        "Belirtiler: İbadet var ama kalp yok; tevbe erteleniyor; haram normalleşiyor; dil kaba, göz pervasız; utanma duygusu (hayâ) köreliyor.",
+        "Dijital gaflet: Sonsuz kaydırma, dopamin yağmuru, sürekli yeni uyarı → kalp derinlik yerine yüzeysellik istiyor.",
+        "Toplumsal itki: Tüketim kültürü, gösterişçi dindarlık (riya), statü yarışı, ‘ben haklıyım gerisi önemsiz’ kibri.",
+        "Erken alarm: Duâ azalır, istiğfar zor gelir, Kur’ân’dan kaçma başlar. Bu kalbin ‘yardım lazım’ dediği andır."
+      ],
+      "tags": ["gaflet", "nefis", "hevâ", "riya", "dijital_dikkat"],
+      "questions": [
+        "Hangi içerikler kalbimi uyuşturuyor ama ben ‘dinleniyorum’ diye kendimi kandırıyorum?",
+        "Hangi ana günah alanıma ‘normal canım bu çağ böyle’ bahanesini uydurdum?"
+      ],
+      "level": "orta",
+      "est_read_min": 6
+    },
+    {
+      "id": "awakening_cycle",
+      "title": "Uyanış Döngüsü: Tevbe → Telafi → İstikrar → Hizmet",
+      "summary": "Düşmek insana mahsus. Asıl mesele, düşüşten sonra kalbi öldürmeden nasıl ayağa kalktığın. Bu bölüm pratik bir döngü sunuyor.",
+      "bullets": [
+        "Farkındalık: ‘Evet yaptım’ diyebilmek. Bahane üretmeden hatayı tanımak.",
+        "Tevbe: Pişmanlık + günahı bırakma + tekrar etmeme niyeti + gerekiyorsa başkasına zararı telafi.",
+        "Telafi (onarma): Sadaka, ekstra ibadet, iyilikle dengeleme; kalbe ‘ben bu hatayı önemsiyorum’ demek.",
+        "İstikrar: Allah’ın en sevdiği amel ‘az da olsa sürekli olan’dır. Küçük ama düzenli iyilikler kalbi kuvvetlendirir.",
+        "Hizmet: Sadece ben-ben-ben değil. Başkasına fayda vermek nuru çoğaltır. Işık paylaştıkça güçlenir."
+      ],
+      "practices": [
+        "Düştüğün anda 2 rekât tevbe namazı.",
+        "Her kaymada 24 saat içinde bilinçli bir iyilik yapıp kaydı tutmak (mesela sadaka, yardım, gönüllü destek)."
+      ],
+      "tags": ["tevbe", "telafi", "istikrar", "hizmet", "rahmet"],
+      "level": "giriş",
+      "est_read_min": 5
+    },
+    {
+      "id": "habit_formation",
+      "title": "Alışkanlık Bilimi ve Nefis Terbiyesi",
+      "summary": "İtaati kolay, günahı zor hâle getiren bir çevre kurmak mümkündür. Bu, irade savaşından önce strateji savaşıdır.",
+      "bullets": [
+        "İşaret → Davranış → Ödül döngüsü: Zikri/salih ameli sabit bir tetikleyiciye bağla (namaz sonrası, yolculukta, sabah kalkınca).",
+        "Sürtünme tasarımı: Günah tetikleyicilerini zorlaştır, uzaklaştır, engelle. Giriş rampasını kır.",
+        "Yerine koyma: ‘Yapma!’ demek tek başına zayıf. Boşluğu helal ve faydalı işle doldur.",
+        "Seri / streak psikolojisi: İlk 7-30-90 gün kritik; bu dönemi kalkanlarla (bloklayıcılar, sorumluluk arkadaşları) koru.",
+        "Nüks = bitiş değildir. ‘Yeniden başla’ refleksin hızlıysa hâlâ kazanıyorsun."
+      ],
+      "tags": ["alışkanlık", "streak", "nefsi_tezkiye", "ortam_tasarımı"],
+      "level": "orta",
+      "est_read_min": 6
+    },
+    {
+      "id": "takwa_definition",
+      "title": "Takvâ: Tanım ve Katmanlar",
+      "summary": "Takvâ, Allah’ın hoşnut olmadığı şeylerden sakınma ve O’nun emrine yakın durma hassasiyetidir. Kalpte başlar, ahlâka ve topluma taşar.",
+      "bullets": [
+        "Kalbî katman: İhlâs (samimiyet), huzur (huzurda olduğunu hissetmek), tevekkül (dayanak O’dur).",
+        "Amel katmanı: Farzları vaktinde kılmak, helale riayet, gözü ve dili korumak.",
+        "Sosyal katman: Emanete sadakat, adalet, merhamet, güvenilirlik.",
+        "Ekonomik katman: Faizden kaçınmak, kazancı temiz tutmak, tüketimi dizginlemek.",
+        "İmtihan katmanı: Bela anında sabır; nimet anında şükür. İkisi de takvâdır."
+      ],
+      "tags": ["takva", "ihlâs", "sabır", "şükür", "helal"],
+      "level": "giriş",
+      "est_read_min": 6
+    },
+    {
+      "id": "takwa_ladder",
+      "title": "Takvâ Merdiveni",
+      "summary": "Takvâ sadece bireysel bir his değildir. Aşağıdan yukarı doğru istikrarlı bir merdiven gibi düşün: nefisten aileye, ümmete kadar sorumluluk genişler.",
+      "bullets": [
+        "1. Bireysel seviye: Namazı vaktinde kılmak, günlük zikir ve Kur’ân payı.",
+        "2. Aile seviyesi: Evin içinde merhamet, güzel dil, gönül almak, ilmî sohbet paylaşmak.",
+        "3. Cemaat seviyesi: Mescid hayatına katılmak, gönüllü hizmet, ihtiyaç sahibine destek.",
+        "4. Ümmet / insanlık seviyesi: Adalet, ilim, merhamet taşıyan projeler kurmak veya desteklemek.",
+        "Üst seviyeler ancak alt taban sağlam olunca sağlıklı şekilde taşınır. Yani ‘dünyayı kurtaracağım ama evde zalimim’ olmaz."
+      ],
+      "tags": ["merdiven", "cemaat", "hizmet", "aile"],
+      "level": "giriş",
+      "est_read_min": 5
+    },
+    {
+      "id": "digital_kalkanlar",
+      "title": "Dijital Kalkanlar ve Temizlik Sayacı",
+      "summary": "Nefsin en hızlı giriş kapısı artık cep telefonu. Kapıyı kilitlemek haramı zorlaştırır, kalbi rahatlatır. Bu bölüm dijital kalkan fikrini ve ‘temizlik sayacı’nı anlatır.",
+      "bullets": [
+        "Tetikleyen uygulama/siteleri engelle (block list). Bu fiziksel bir kalkan gibi.",
+        "Telefonu belirli saatlerde tamamen kapat / başka odada bırak (meselâ yatsıdan sabah namazına kadar).",
+        "Güvendiğin bir kardeşle anlaş: Düşersen hemen haber ver → birlikte tevbe + telafi yap.",
+        "Yerine koy: Yürüyüş, abdest, kısa zikir halkaları, kitap okumak, hayırlı meşgale.",
+        "Metri̇kler / ölçümler: ‘temiz gün sayısı’, ‘dürtü geldi ama direnildiği anlar’, ‘düşüş sonrası yapılan telafi iyilikleri’."
+      ],
+      "practices": [
+        "3 – 7 – 30 – 90 günlük temiz seriler için küçük sadaka hedefleri koy.",
+        "Her güçlü haram dürtüsünde: hemen istiğfar + küçük hayır (mesela su ikramı, mesajla gönül alma)."
+      ],
+      "tags": ["dijital_detoks", "temizlik_sayacı", "zikir", "iffet"],
+      "level": "giriş",
+      "est_read_min": 5
+    },
+    {
+      "id": "takwa_index",
+      "title": "Takvâ Endeksi (TE) — Şeffaflık, Merhamet, Ölçü",
+      "summary": "Takvâ Endeksi, gösteriş için değil; kişinin kendi nefsiyle hesaplaşması, ilerleyişini görmesi için. Farz ve istikrar yüksek ağırlık alır; tevbe mekanizması da puanlıdır. Her şey gizlilik odaklıdır.",
+      "bullets": [
+        "Temel farzların (özellikle namazın vaktinde kılınması) katsayısı yüksek (x2). Bu ‘ana kolon’u temsil eder.",
+        "Helal kazanç, faizden kaçınma, kul hakkına hassasiyet gibi ekonomik takvâya ekstra ağırlık (x1.5).",
+        "Gözü ve dili koruma gibi iffete ve edepe dair pratiklere ayrı katsayı (x1.2).",
+        "İstikrar bonusu: Haftalık düzenlilik +%10 gibi küçük ama motive edici ek.",
+        "Tevbe artırıcısı: Düşüşten sonra hızlı tevbe + telafi varsa, bu sıfırdan başlamak değil, ‘yarayı sarıp yola devam’ olarak değerlendirilir.",
+        "Riya koruması: Endeks varsayılan olarak gizli tutulur. ‘Gizli mod’ riya riskini azaltır.",
+        "Toplumsal hizmet puanı, kişisel temel ibadetler çok zayıfsa sınırlanır. Yani ‘sosyal kahraman olup evde sıfır’ puan kasamaz."
+      ],
+      "data": {
+        "weights": {
+          "farz_namaz_vaktinde": 2.0,
+          "gunluk_kuran_payi": 1.2,
+          "gunluk_zikir": 1.1,
+          "helal_kazanc_faizsiz": 1.5,
+          "gozu_dili_koruma": 1.2,
+          "haftalik_sadaka": 1.1,
+          "aylik_hizmet": 1.2
+        },
+        "bonuses": {
+          "haftalik_istikrar": 0.1,
+          "temiz_7g": 5,
+          "temiz_30g": 15,
+          "temiz_90g": 40
+        },
+        "recovery": {
+          "tevbe_destek_katsayisi": 0.5,
+          "telafi_asgari_amel": 1
+        }
+      },
+      "tags": ["ölçüm", "mahremiyet", "riya_riski", "istikrar"],
+      "questions": [
+        "Kendi ilerlememi görmem için beni motive eden ama kimseye hava atma alanı bırakmayan bir sistem kurabilir miyim?"
+      ],
+      "level": "orta",
+      "est_read_min": 8
+    },
+    {
+      "id": "percentiles",
+      "title": "Yüzdelik Hedefler (Kaba Kılavuz)",
+      "summary": "Bu kısım ‘kardeşim ben neredeyim bu yarışta?’ sorusuna kabaca bir perspektif verir. Kesin hüküm değil; motivasyon ve muhasebe için pusula.",
+      "bullets": [
+        "%25 ve üstü: Farzları vaktinde kılıyor, her gün az da olsa Kur’ân ve zikir alıyor, helale dikkat ediyor.",
+        "%5 ve üstü: + Haftalık sadaka / hizmet var, gözü-dili koruma hassasiyeti var, haftalık ilim halkası / ders takibi var.",
+        "%1 ve üstü: + Sabah erken disiplin (mesela mümkünse cemaatle sabah namazı), aylık toplumsal fayda projesi veya gönüllülük var.",
+        "~ milyonda 1 seviye: Yıllarca istikrarlı kulluk + helal kazançta tavizsiz duruş + hizmette devamlılık + riyadan kaçınma. Bu insanlar genelde gösterişsizdir, kim olduklarını kimse bilmez.",
+        "Amaç övünmek değil. ‘Ben neredeyim ve nereye doğru adım atıyorum?’ sorusunu somutlaştırmak."
+      ],
+      "tags": ["yüzdelik", "hedefler", "nefsi_muhasebe"],
+      "level": "orta",
+      "est_read_min": 5
+    },
+    {
+      "id": "ethics_adab",
+      "title": "Ahlâk, Hudut ve Âdâb",
+      "summary": "Allah’ın rızasını ararken çizgiyi korumak gerekir: teşbih (Allah’ı mahlûka benzetme), tecsim (Allah’ı cisim gibi düşünme), tekfircilik, riyâ, mezhepsiz savrulma… Hepsi kalbi karartır.",
+      "bullets": [
+        "Allah’ın aşkınlığını (tenzih) koru ama O’nun bize bildirdiği isimleri de sevip yaşa. İkisi beraber itidal verir.",
+        "Riyadan sakın: İyiliği gösteriş için yapma. Mümkünse gizli tut, Allah bilsin yeter.",
+        "İbadet ve itikatta ehil bir mezhebin usulünü takip etmek, seni kendi kafandan uydurma dinden korur.",
+        "İhtilaflarda nezaket: ‘Ben doğruyum, sen çöpsün’ tavrı kalbi kirletir, ümmeti parçalar.",
+        "Kimsenin ayıbını ifşa etmek yok. Kimseyi utandırarak ‘ıslah edemezsin’."
+      ],
+      "tags": ["adab", "riya", "mezhep", "birlik", "tenzih"],
+      "level": "giriş",
+      "est_read_min": 5
+    },
+    {
+      "id": "family_society",
+      "title": "Aile, İş ve Toplum",
+      "summary": "Ma‘rifet sadece teorik zevk değildir. Evde merhamet, işte emanet, toplumda hizmet hâline dönüşmüyorsa eksiktir.",
+      "bullets": [
+        "Aile: Şefkatli dil, sabır, birlikte ibadet, birlikte öğrenme. Evin içinde rahmet dağıtmak Allah’ın Rahmân ismine ayna olmaktır.",
+        "İş / kazanç: Emanet bilinci, kaliteli iş ahlâkı (ihsan), helal gelir, faiz ve kul hakkından uzak durma.",
+        "Toplum: Muhtaca yardım, gönüllü çalışma, köprü olmak, fitne değil merhamet yaymak.",
+        "Dijital vatandaşlık: Yalan, gıybet, ifşa, iftira taşımamak. ‘Zarar yoktur ve zarara zararla karşılık yoktur’ prensibi.",
+        "Mevsimsel ritimler: Ramazan, Zilhicce, sadaka kampanyaları, çekilme/itiraf anları, kalbi tazelemek için inziva zamanları."
+      ],
+      "tags": ["aile", "iş_ahlakı", "emanet", "toplumsal_hizmet", "mevsimler"],
+      "level": "giriş",
+      "est_read_min": 6
+    },
+    {
+      "id": "daily_program",
+      "title": "Günlük / Haftalık Program",
+      "summary": "Küçük ama istikrarlı bir yol haritası: Her gün bir ismi yaşa. Her hafta bir başkasına fayda ver. Her ay kalbini tazele.",
+      "bullets": [
+        "Günlük: Bir ismi seç (meselâ ‘er-Rahmân’). Anlamını oku, 5-10 dk tefekkür et, o isme uygun tek somut davranış belirle (‘Bugün özellikle merhametle davranıyorum’ gibi).",
+        "Her farz namazdan sonra: Kısa zikir seti + şükür niyeti (‘Ya Rabbi, bu nefes bana hediye’).",
+        "Haftalık: Bir ilim bölümüne odaklan, özeti bir kardeşle paylaş, bir hayır/yardım hareketi yap.",
+        "Aylık: Yarım gün dijital detoks + yalnız kalıp muhasebe + dua.",
+        "3 ayda bir: Hedefleri gözden geçir. ‘Ben sadece okuyorum mu, yoksa yaşıyor muyum?’ sorusunu sor."
+      ],
+      "practices": [
+        "Zikri sabit tetikleyiciye bağla (namaz sonrası, işe giderken).",
+        "Dürtü geldiğinde kaçmak yerine hemen istiğfar + küçük iyilik formülünü uygula.",
+        "Temizlik sayacını (clean timer) kaydet; pes etme, devam et."
+      ],
+      "tags": ["program", "istikrar", "tefekkür", "zikir"],
+      "level": "giriş",
+      "est_read_min": 5
+    },
+    {
+      "id": "glossary",
+      "title": "Temel Kavramlar Sözlüğü",
+      "summary": "Sürekli kullandığımız bazı anahtar kelimelerin kısa açıklaması.",
+      "bullets": [
+        "Ma‘rifet: Allah’ı tanıma bilgisi; kalbin O’na yönelmesiyle oluşan içsel marifet.",
+        "İhsan: Allah’ı görüyormuş gibi ibadet etmek; göremiyorsan O’nun seni gördüğünü bilmek.",
+        "Takvâ: Allah’ın gazabını gerektiren şeylerden sakınma ve O’nun rızasına yakın durma şuuru.",
+        "Tevbe: Hata sonrası dönmek; pişman olmak, bırakmak, bir daha dönmemeye niyet etmek ve gerekiyorsa telafi etmek.",
+        "Fıtrat: İnsanın Allah’a yönelmeye meyilli yaratılış kodu; hakikati tanıma kapasitesi."
+      ],
+      "level": "giriş",
+      "est_read_min": 3
+    },
+    {
+      "id": "method_bibliography",
+      "title": "Yöntem ve Kaynakça (Özet)",
+      "summary": "Bu çalışma Kur’ân, sahih hadis, klasik İslâm ilimleri; ahlâk felsefesi; alışkanlık psikolojisi; dikkat ekonomisi; toplumsal hizmet literatürü; modern kozmoloji ve ‘hayret bilimi’ gibi alanları bir araya getirir.",
+      "bullets": [
+        "Yöntem: Ayet ve hadislerin bağlama göre okunması (tefsir/şerh), klasik ulemanın tespitleri, modern psikoloji ve sosyolojinin veri tabanlı bulguları.",
+        "Birincil kaynaklar: Kur’ân; Sahih hadisler; İmam Gazâlî (İhyâ), İbn Kayyim (Mebâric / Medâric), İmam Nevevî (Riyâzü’s-Sâlihîn).",
+        "İkincil kaynaklar: Alışkanlık oluşumu (habit formation), dikkat ekonomisi, anlam psikolojisi, kozmoloji/fine-tuning tartışmaları.",
+        "Sınırlar: Kültürel bağlam farklılıkları; nefs muhasebesinde rakamsal ölçümün riyaya kayma ihtimali; mahremiyet hassasiyeti.",
+        "Etik çerçeve: Merhamet, haysiyet, kademeli ıslah; kimsenin günahını ifşa etmeden yardımcı olmak."
+      ],
+      "refs": [
+        "Gazâlî – İhyâ’u Ulûmi’d-Dîn",
+        "Nevevî – Riyâzü’s-Sâlihîn",
+        "İbn Kayyim – Medâricu’s-Sâlikîn",
+        "Modern psikoloji ve nörobilim literatüründe alışkanlık ve dikkat çalışmaları",
+        "Kozmoloji ve ince ayar tartışmalarına dair çağdaş kaynaklar"
+      ],
+      "level": "orta",
+      "est_read_min": 5
+    }
+  ]
+}
