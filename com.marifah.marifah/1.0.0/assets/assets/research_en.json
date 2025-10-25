@@ -1,9 +1,11 @@
 {
   "meta": {
-    "lang": "en",
+    "lang": "multi",
     "title": "Ma'rifatullah — Deep Research Dossier",
-    "version": "1.0.0",
-    "updated_at": "2025-10-24"
+    "version": "1.1.0",
+    "updated_at": "2025-10-25",
+    "aqidah_note_en": "This dossier is built on Qur'an, Sahih Sunnah, classical Sunni creed (Ash'ari / Maturidi / Athari with adab), and Ihsan-focused spirituality. It rejects anthropomorphism (tashbih) and also rejects denying Allah's Names and Attributes (ta'til). Science, philosophy, psychology, sociology are treated as supporting witnesses, not as judges placed above revelation.",
+    "aqidah_note_tr": "Bu dosya Kur'an, sahih Sünnet, klasik Ehl-i Sünnet akaidi (Eş'ari / Maturidi / Selefi çizgilerde edep ile) ve ihsan merkezli maneviyat üzerine kuruludur. Allah'ı mahluka benzetmeyi reddeder (teşbih), Allah'ın isim ve sıfatlarını inkâr etmeyi reddeder (ta'til). Bilim, felsefe, psikoloji ve sosyoloji vahyin üstünde bir hakem değil; şahid ve destek olarak görülür."
   },
   "sections": [
     {
@@ -11,194 +13,290 @@
       "title": "Purpose of Creation & Ma'rifah",
       "summary": "We were created to worship and know Allah; ma'rifah elevates worship from form to presence (ihsan).",
       "bullets": [
-        "“I did not create jinn and humankind except to worship Me” (Q 51:56) — worship entails knowing, loving, obeying.",
-        "Ma'rifah (knowing Allah) is the heart’s light that turns ritual into conscious devotion (ihsan).",
-        "The Names guide orientation: Who is the One I face, love, fear, hope for?",
-        "True knowledge births humility, gratitude, and service.",
-        "Teleology: The human fitrah seeks meaning beyond self; ma'rifah fulfills that trajectory."
+        "I did not create jinn and humankind except to worship Me (Q 51:56). Worship in Qur'anic usage includes knowing, loving, obeying, submitting, and returning in repentance.",
+        "Classical tafsir (for example Ibn Abbas, Ibn Kathir) explains that real worship is impossible without ma'rifah; empty ritual without heart-awareness is criticized in Qur'an 107:4-6.",
+        "Ma'rifah is the light of the heart that turns repeated action into ihsan: to worship Allah as if you see Him; if you do not see Him, know that He sees you (Hadith Jibril, Sahih Muslim).",
+        "Human teleology: the fitrah is created leaning toward recognition of the One God. When it is suppressed, the soul feels restless and spiritually hungry.",
+        "True knowledge births humility, gratitude, and service. It is not only theory; it reforms character and society."
       ],
-      "tags": ["teleology","fitrah","ihsan"],
+      "tags": [
+        "teleology",
+        "fitrah",
+        "ihsan",
+        "purpose",
+        "worship"
+      ],
       "questions": [
-        "What intention do I bring to today’s worship?",
-        "Which Name will I live by in the next 24 hours?"
+        "What intention am I actually carrying into today's salah beyond checking a box?",
+        "Which Divine Name will I try to live today in the next 24 hours?"
       ],
       "level": "intro",
-      "est_read_min": 5
+      "est_read_min": 6,
+      "long_en": "Qur'an 51:56 teaches that humanity and jinn were created for worship. Classical scholars describe worship not only as physical ritual but as loving Allah most, submitting to Him alone, obeying Him sincerely, and turning back to Him. That means worship is an existential orientation. Ma'rifatullah (knowing Allah) is therefore not an optional luxury; it is the inner life of worship. Without some taste of Who Allah is, rituals decay into habit or social identity. Qur'an 107:4-6 criticizes prayer done heedlessly and for show. But when the heart recognizes Allah's Rahmah (Mercy), 'Ilm (Knowledge), Qudrah (Power), 'Adl (Justice), and Jamal (Beauty), then bowing, charity, patience, and service become alive and intentional. The Prophet ﷺ defined ihsan as worshipping Allah as if you see Him; and if you do not, know that He sees you. That is mature ma'rifah in daily life: constant awareness of Divine presence (muraqabah). Human nature (fitrah) is created already oriented toward this recognition. When a person smothers it, they often feel internal emptiness, nihilism, compulsive distraction. When they answer it, they feel sakinah (calm), meaning, and direction. The goal of this project is to guide users from information about Allah to lived awareness of Allah.",
+      "long_tr": "Kur'an 51:56'ya göre insan ve cinler yalnız Bana ibadet etsinler diye yaratıldı. Müfessirler bu ibadeti sadece dış fiiller olarak değil; Allah'ı tanımak, O'na boyun eğmek, O'nu en çok sevmek, O'na yönelmek ve O'na itaat etmek olarak açıklar. Yani ibadet bir yöneliş ve teslimiyettir. Ma'rifetullah (Allah'ı tanımak) bu yüzden lüks değildir; ibadetin kalbidir. Allah'ı tanımadan yapılan tekrar, zamanla ruhsuz bir alışkanlığa veya sadece kimlik gösterisine döner. Kur'an 107:4-6 riya için kılınan, kalpsiz namazı eleştirir. Ama kul Rahman olan'ı, Alim olan'ı, Kadir olan'ı, Adl olan'ı, Cemil olan'ı tanıdıkça secde, sabır, infak, tevazu canlılaşır. Peygamber Efendimiz ﷺ ihsanı şöyle tarif eder: Allah'ı görüyormuş gibi ibadet etmek; her ne kadar sen O'nu görmüyor olsan da O'nun seni gördüğünü kesin bilmen. Bu hal, ma'rifetin hayata inmiş şeklidir: sürekli ilahî murakabe şuuru. Fıtrat zaten tek olan Rabb'i tanımaya meyillidir. Bu fıtrat bastırıldığında kalp huzursuzluk, anlamsızlık, tüketim bağımlılığı yaşar. Fıtrat cevap bulduğunda ise sükun, anlam ve yön kazanır. Bu uygulama kullanıcıyı kuru bilgiden yaşanan şuur düzeyine taşımayı hedefler."
     },
     {
       "id": "sources",
       "title": "Sources of Knowing Allah",
       "summary": "Revelation anchors knowledge; the Prophetic life embodies it; creation and reason corroborate it.",
       "bullets": [
-        "Qur'an: explicit Names and implicit signs (ayat) in self and cosmos (Q 41:53).",
-        "Sunnah: Prophetic mercy, justice, balance embody the Names.",
-        "Creation: order, beauty, contingency mirror Divine attributes.",
-        "Reason: operates within revealed guidance; guards from fancy and superstition.",
-        "Scholarly tradition: tafsir, hadith, kalam, tasawwuf as complementary lenses."
+        "Qur'an: explicitly names Allah (Q 59:22-24) and invites reflection on signs on the horizons and within yourselves (Q 41:53).",
+        "Sunnah: the Prophet ﷺ is described as a mercy to all worlds (Q 21:107); his character reflects Divine Names like Mercy, Justice, Truthfulness.",
+        "Creation: order, interdependence, mathematical regularity, moral intuition and consciousness all function as ayat (signs).",
+        "Reason ('aql): protects from superstition, helps us grasp the necessity of a Creator, and filters false claims.",
+        "Scholarly tradition: tafsir, hadith verification, kalam, fiqh, tasawwuf. Differences in schools are handled with adab, not hostility."
       ],
       "refs": [
-        "Q 41:53; Q 59:22–24 (Names); Sahih hadith on ihsan (Jibril).",
-        "Al-Ghazali, Ihya’ ‘Ulum al-Din; Ibn al-Qayyim; al-Nawawi."
+        "Q 41:53; Q 59:22-24; Q 21:107",
+        "Hadith Jibril (Sahih Muslim)",
+        "Al-Ghazali (Ihya'), Fakhr al-Din al-Razi (tafsir), Imam al-Nawawi, Ibn al-Qayyim"
       ],
-      "tags": ["revelation","sunnah","cosmos","reason"],
+      "tags": [
+        "revelation",
+        "sunnah",
+        "cosmos",
+        "reason",
+        "tradition"
+      ],
       "level": "intro",
-      "est_read_min": 6
+      "est_read_min": 7,
+      "long_en": "Traditional Islamic epistemology is layered. (1) Revelation (wahy): Qur'an and authentic Sunnah are final, protected guidance. Qur'an 41:53 promises that Allah will show His signs on the horizons and within themselves until truth is clear. Qur'an 59:22-24 lists Names and Attributes, teaching the believer Who Allah is. The Prophet ﷺ is called a mercy to all realms (Q 21:107), showing Divine compassion embodied in a human life. (2) Creation (kawn): The world is full of ayat. The stability of physical laws, interwoven ecosystems, moral intuition, human consciousness, longing for meaning, all of these are read as indicators of a Wise, Intentional Cause. We do not worship nature; we read nature as proof. (3) Reason ('aql): Scholars like al-Ghazali and Fakhr al-Din al-Razi argue that the intellect can affirm that contingent things require a Necessary Being and that moral obligation hints at a Just Lawgiver. Reason also filters superstition. (4) Transmission (isnad / tradition): The Muslim scholarly heritage is a 1400+ year peer-review chain. Tafsir, hadith science, fiqh, kalam, tasawwuf are lenses on revelation. Differences exist (Ash'ari, Maturidi, Athari, Sufi paths) but respectful disagreement with adab is itself part of the deen.",
+      "long_tr": "İslamî bilgi anlayışı katmanlıdır. (1) Vahiy: Kur'an ve sahih Sünnet korunmuş ve nihai rehberdir. Kur'an 41:53 Allah'ın ufuklarda ve nefislerinizde ayetlerini göstereceğini bildirir. Kur'an 59:22-24 Allah'ın isim ve sıfatlarını sayarak mümine Rabbini öğretir. Peygamber ﷺ Enbiya 21:107'de âlemlere rahmet olarak tanımlanır; ilahî rahmetin insan hayatına yansımasıdır. (2) Kainat: Alem baştan sona ayetlerle doludur. Fizik kanunlarının istikrarı, ekosistem dengesi, vicdan, bilinç, anlam arzusu, bunlar kör tesadüf değil, hikmetli bir İrade işareti olarak okunur. Doğaya tapılmaz; doğa okunur. (3) Akıl: Gazali, Fahreddin er-Razi gibi alimler aklın mümkün varlıkların zorunlu bir Varlığa dayandığını kavrayabileceğini ve ahlaki yükümlülüğün adil bir Hakem'i işaret ettiğini söyler. Akıl hurafeyi süzer. (4) Silsile: Tefsir, hadis tenkidi, fıkıh, kelam, tasavvuf asırlardır süren bir isnad zinciridir. Eş'ari, Maturidi, Selefi, tasavvufi yollar gibi farklı üsluplar vardır; ama bu ihtilaf edebiyle yaşanır. Kalp hakikati bu dört kanaldan öğrenir: vahiy, kainat, akıl ve yaşayan ilim geleneği."
     },
     {
       "id": "names_theology",
-      "title": "The Beautiful Names (Asma’ al-Husna)",
+      "title": "The Beautiful Names (Asma' al-Husna)",
       "summary": "The Names are portals of guidance; they are known without likening Allah to creation and without negation.",
       "bullets": [
-        "Affirmation without anthropomorphism (tashbih) and transcendence without negation (ta‘til).",
-        "Names cluster: Mercy (Rahman/Rahim), Knowledge (Alim/Khabeer), Power (Qadir/Qahhar), Beauty & Majesty (Jamal/Jalal).",
-        "Living the Names = aligning intention, action, and character with Divine guidance.",
-        "Balance: hope (raja’) with fear (khawf), love (mahabbah) with awe (haybah).",
-        "Guarding creed (aqidah) ensures spiritual safety while tasting proximity."
+        "Tanzih (transcendence): Allah is absolutely unlike creation. There is nothing like unto Him (Q 42:11).",
+        "Ithbat (affirmation): We affirm the Names and Attributes Allah affirmed for Himself, without twisting or denial.",
+        "Sunni aqidah balances between tashbih (wrong human-like description) and ta'til (wrong negation).",
+        "Names appear in constellations: Mercy (Ar-Rahman, Ar-Rahim), Knowledge (Al-Alim, Al-Khabir), Power (Al-Qadir, Al-Qahhar), Majesty and Beauty (Jalal and Jamal).",
+        "Spiritual work means letting each Name reshape character: Rahman leads us to practice mercy; Al-Adl leads us to pursue justice; Al-Hafiz leads us to protect trusts."
       ],
-      "tags": ["aqidah","asma","balance"],
-      "questions": ["Which Name do I under-live or overemphasize?"],
+      "tags": [
+        "aqidah",
+        "asma",
+        "ihsan",
+        "character",
+        "tanzih"
+      ],
+      "questions": [
+        "Which Name do I almost never think about, even though I urgently need it?",
+        "Do I lean only on Mercy Names and ignore Justice Names, or the opposite?"
+      ],
       "level": "intermediate",
-      "est_read_min": 7
+      "est_read_min": 8,
+      "long_en": "The Asma' al-Husna are revelations of Who Allah is. Sunni creed takes a middle path. One extreme is tashbih, describing Allah as if He were a creature, limited, physical, emotional like us. This is rejected because There is nothing like unto Him (Q 42:11). The other extreme is ta'til, stripping Allah of the very Names and Attributes He revealed, claiming we cannot say anything about Him. That is also rejected, because Allah named Himself in the Qur'an and the Prophet ﷺ described Him in authentic hadith. The balanced path is affirmation without asking how in a physical sense and without likening to creation. The Names tell us: Allah is Ar-Rahman (universally Merciful), Ar-Rahim (especially Merciful to believers), Al-Alim (All-Knowing), Al-Hakim (All-Wise), Al-Qadir (All-Powerful), Al-Adl (Perfectly Just), As-Salam (Source of Peace). We affirm these without imagining limits or forms. Each Name also trains us. If Allah is Ar-Rahman, we practice mercy. If Allah is Al-Adl, we pursue justice and refuse oppression. If Allah is Al-Hafiz, we guard the trusts we hold. In lived ihsan, we reflect a humble, created trace of these qualities without claiming divinity. Learning a Name becomes a loop: meaning, reflection (tafakkur), and one daily action that expresses that Name.",
+      "long_tr": "Esmau'l Husna Allah'ın kendi Zatını tanıttığı kapılardır. Ehl-i Sünnet yolu iki uca karşı dengedir. Bir uç teşbihdir: Allah'ı yaratılmış gibi, sınırlı veya bedenli hayal etmek. Bu, Süra 42:11'de geçen O'nun benzeri hiçbir şey yoktur hakikatine aykırıdır. Diğer uç ta'tildir: Allah'ın Kur'an ve sahih hadiste kendisi için bildirdiği isim ve sıfatları iptal edip, O'nu tamamen tarif dışına itmek. Bu da reddedilir. Denge; isbat yani Allah'ın bildirdiğini kabul etmektir, fakat keyfiyet sormadan ve mahluka benzetmeden. İsimler bize hem marifet hem ahlak öğretir. Rahman ve Rahim isimleri merhametli olmamızı; Adl ismi adaletli olmamızı; Hafiz ismi emaneti korumamızı öğretir. Bu, ihsanın amel haline gelmesidir: ilahi sıfatların kula yakışan gölgesini yaşamak. Pratikte bir İsim çalışması üçlüdür: mana, kalpte tefekkür ve o günkü amel."
     },
     {
       "id": "classical_arguments",
-      "title": "Classical Arguments for God",
-      "summary": "Rational signs point to a Necessary Being of perfect attributes; proofs serve awakening, not pride.",
+      "title": "Classical Arguments for Allah's Existence and Lordship",
+      "summary": "Rational signs point to a Necessary Being of perfect attributes; proofs steady the heart and silence arrogant doubt.",
       "bullets": [
-        "Kalam cosmological: begun universe ⇒ transcendent cause.",
-        "Contingency: contingent beings require a Necessary Existent.",
-        "Teleology: order, fitness-for-life, intelligibility suggest wisdom.",
-        "Moral: objective values fit best within a perfectly just source.",
-        "Use proofs as pointers that steady the heart alongside revelation."
+        "Kalam cosmological (huduth): The universe began. What begins must have a cause. The first cause must be beyond time, space, and matter.",
+        "Contingency (imkan / wujub): Dependent beings cannot explain themselves. There must be a Necessary Existent (Wajib al-Wujud) who is not dependent.",
+        "Teleology: Order, harmony, and fine-tuning suggest knowledge, will, and wisdom rather than blind chaos.",
+        "Moral argument: Deep human sense of justice and accountability points to a perfectly Just, Aware Lawgiver.",
+        "These arguments are supports for the fitrah and anchors for the mind. They are not a replacement for revelation."
       ],
-      "tags": ["kalam","contingency","teleology","moral"],
+      "tags": [
+        "kalam",
+        "contingency",
+        "teleology",
+        "moral",
+        "aqidah"
+      ],
       "level": "intermediate",
-      "est_read_min": 6
+      "est_read_min": 7,
+      "long_en": "Muslim theologians such as al-Juwayni, al-Ghazali, and Fakhr al-Din al-Razi developed rational arguments showing that belief in Allah is secure. 1. Huduth (origination): The universe shows signs of a beginning such as cosmic expansion and thermodynamic decay. What begins cannot be self-caused because before it began it did not exist. So it needs an external cause. That cause must be outside time, space, and matter, powerful and willing. Revelation identifies that Cause as Allah. 2. Contingency (imkan): Everything around us is possible (it could exist or not exist). Possible things cannot be their own final explanation; an infinite chain of borrowed existence never explains why anything exists at all. So there must be a Being that is necessary, uncaused, independent, and self-sufficient, called Wajib al-Wujud. This resonates with Names like As-Samad (the One all depend on) and Al-Qayyum (the One who sustains all). 3. Teleology (design): The mathematical elegance of physics, the fine-tuning of constants that allow life, the deep information structure of biology, and consciousness all suggest intention, wisdom, and knowledge, not random chaos. Qur'an repeatedly invites humans to look, reflect, and use intellect. 4. Moral argument: We feel real moral obligation. We praise justice and condemn cruelty as if these are objective, not just taste. That strongly indicates an objective Moral Lawgiver who is Just (Al-Adl) and Aware (Al-Khabir). These proofs are not for arrogance; they are medicine for whispering doubts and calm for the heart so it can return to dhikr with confidence.",
+      "long_tr": "Kelam alimleri (İmamü'l Harameyn el-Cüveyni, İmam Gazali, Fahreddin er-Razi vb.) Allah'a imanın aklen de sağlam olduğunu gösteren deliller ortaya koydu. 1. Hudus delili: Alem sonradan var olmuştur. Başlangıcı olan her şey bir sebebe muhtaçtır. Bu ilk sebep zaman, mekan ve maddenin dışında olmalı; kudret ve irade sahibi olmalıdır. Vahiy bu ilk sebebin Allah olduğunu haber verir. 2. İmkan delili: Çevremizdeki varlıkların hepsi mümkün varlıklardır, yani var olmayabilirdi. Mümkin olan şeyler varlığı nihai olarak açıklayamaz; sonsuz geriye gidiş de çözüm değildir. Bu yüzden zorunlu varlık (Vacibu'l Vucud) gerekir: başkasına muhtaç olmayan, ezeli ve kaim olan. Bu Es-Samed ve El-Kayyum gibi isimlerle uyumludur. 3. Nizam ve gaye delili: Fizik kanunlarının matematiksel uyumu, hayat için hassas ayarlar, biyolojik bilginin düzeni ve bilinç gibi hakikatler kör tesadüf yerine ilim ve hikmete işaret eder. Kur'an tekrar tekrar düşünmez misiniz diye sorar. 4. Ahlak delili: Vicdan, adalet talebi, zulme öfke gibi duygularımızı yalnız kültürel tat olarak görmeyiz; sanki gerçek bir bağlayıcılık var. Bu, Al-Adl (Mutlak Adil) ve El-Hakem (Hükmeden) olan aşkın bir Hakem'i işaret eder. Bu deliller kibir için değil; vesveseye karşı sükun ve kalbin zikre güvenle dönebilmesi içindir."
     },
     {
       "id": "science_awe",
       "title": "Science, Cosmology, and Awe",
-      "summary": "Modern science widens tafakkur horizons without replacing revelation; awe nurtures gratitude and stewardship.",
+      "summary": "Modern science widens tafakkur horizons without replacing revelation; awe nurtures gratitude, humility, and stewardship.",
       "bullets": [
-        "Fine-tuning discourse: delicate constants compatible with life.",
-        "Complexity/Information: emergence invites humility before wisdom.",
-        "Quantum limits to naïve reductionism; epistemic modesty matters.",
-        "Awe states correlate with pro-sociality and ethical restraint.",
-        "Science as ayah-reading: stewardship (khilafah) and trust (amanah)."
+        "Cosmology: The observable universe appears to have expanded from a hot, dense origin. This supports the huduth idea that creation is not eternal on its own.",
+        "Fine-tuning: Physical constants sit in extremely narrow ranges that allow stars, chemistry, and life. Many theists read this as a sign of wisdom and will.",
+        "Life and consciousness: Biological information and first-person awareness resist being explained as pure accident in classical theistic reading.",
+        "Awe psychology: Studies in moral psychology connect awe (hushu, hayret) with more humility and more pro-social behavior.",
+        "Stewardship (khilafah): Seeing nature as ayat leads to care, not exploitation. Serving creation becomes ibadah and amanah."
       ],
-      "tags": ["awe","cosmology","complexity","amanah"],
+      "tags": [
+        "awe",
+        "cosmology",
+        "fine_tuning",
+        "amanah",
+        "stewardship"
+      ],
       "level": "intermediate",
-      "est_read_min": 7
+      "est_read_min": 8,
+      "long_en": "The Qur'an repeatedly commands tafakkur (deep reflection) on the heavens, earth, life, birth, death, rain, plants, stars, mountains. Classical scholars treated nature as an open book of ayat. Modern cosmology suggests the universe is expanding and was once extremely hot and dense. This resonates with the kalam intuition that the universe is not beginningless and self-sufficient. Thermodynamics and entropy also suggest the universe is headed toward decay without external renewal, implying it is not eternally self-sustaining. The fine-tuning discussion observes that fundamental physical constants sit in tight ranges that allow life. Small deviations could prevent stable atoms, chemistry, or stars. While non-theistic alternatives such as multiverse ideas are discussed in philosophy of science, classical Islamic framing reads order, harmony, and intelligibility as signs of Hikmah (Wisdom) and Qudrah (Power). Biology and consciousness deepen awe: the layered information in DNA, cellular feedback loops, and the fact that a human experiences I am aware are seen as strong ayat of intentional design. Psychology research on awe and hushu reports that awe can increase humility, patience, and willingness to help others. In Islamic framing, awe before Allah's signs softens the ego, encourages shukr (gratitude), and motivates stewardship (khilafah). We care for creation because it is a trust (amanah), not disposable raw material.",
+      "long_tr": "Kur'an tekrar tekrar göklere, yere, yağmura, doğuma, ölüme, gece-gündüz döngüsüne bakmayı emreder. Klasik alimler kainatı okunacak bir kitap olarak görmüştür: her sahne bir ayettir. Modern kozmoloji evrenin genişlediğini ve başlangıçta aşırı yoğun ve sıcak bir halde olduğunu söyler. Bu, alemin ezeli olmadığını savunan kelam çizgisiyle uyumludur. Entropi artışı da alemin tükenmeye doğru gittiğini, yani dıştan bir takviye olmaksızın sonsuz olamayacağını ima eder. İnce ayar meselesi: Yerçekimi sabiti gibi fizik sabitleri çok dar aralıklardadır; küçük bir değişiklikte yıldızlar, kimya, hayat mümkün olmayabilir. Bazı felsefi açıklamalar olsa da İslami okumada bu uyum Hikmet ve Kudret tecellisi olarak okunur. Biyoloji ve şuur da hayreti artırır. DNA bilgisinin katmanlı düzeni, hücresel geri bildirim sistemleri ve hele ki bilinçli ben farkındayım tecrübesi kör tesadüf yerine ilim ve iradeye işaret eden ayetler olarak görülür. Psikolojide awe ve huşu hallerinin tevazuyu artırdığı, bencilliği azalttığı ve şefkati yükselttiği gözlenmiştir. İslami çerçevede bu huşu, nefsi yumuşatır, şükrü çoğaltır ve halifelik (emanet) sorumluluğunu hatırlatır. Kainata hoyratça hükmetmek değil; emanete sahip çıkmak bir ibadettir."
     },
     {
       "id": "gaflah_map",
       "title": "Map of Gaflah (Heedlessness)",
-      "summary": "Gaflah arises from ego (nafs), appetites (hawa), heedless environments, and attention capture.",
+      "summary": "Gaflah is spiritual sleep. It is fed by ego, desire, distraction, and despair. Early detection prevents moral paralysis.",
       "bullets": [
-        "Roots: self-exaltation, desires, chronic distraction, despair.",
-        "Manifestations: ritual without heart, delay of repentance, moral numbness, cynicism.",
-        "Digital heedlessness: slot-machine feeds, novelty loops, dopamine drift.",
-        "Social vectors: consumerism, status games, performative piety (riya’).",
-        "Early warnings: sleep of heart, neglect of du‘a, loss of shame (haya’)."
+        "Roots: arrogance of the nafs, unchecked desire (hawa), chronic distraction of dunya, and hopelessness (qunut).",
+        "Manifestations: ritual without heart, riya' (performing for people), delaying tawbah until later, moral numbness.",
+        "Modern amplification: infinite scroll, algorithmic dopamine loops, status-chasing and consumer performance.",
+        "Social spread: normalization of mockery, shamelessness (loss of haya'), cynicism about sincerity, hostility to mercy.",
+        "Warning signs: dua becomes rare, Qur'an feels distant, sins feel normal, the heart stops feeling shame."
       ],
-      "tags": ["nafs","attention","riya","consumerism"],
-      "questions": ["Which inputs numb my heart daily?"],
+      "tags": [
+        "nafs",
+        "riya",
+        "distraction",
+        "consumerism",
+        "heedlessness"
+      ],
+      "questions": [
+        "Which input is dulling my heart every single day?",
+        "Where am I most performative instead of sincere?"
+      ],
       "level": "intermediate",
-      "est_read_min": 6
+      "est_read_min": 6,
+      "long_en": "Gaflah is not simple ignorance. It is spiritual anesthesia. The person may know in theory, but the heart is numb. Qur'an often calls humanity back from heedlessness (ghafilun) to dhikr (remembrance). Sources of gaflah include: the nafs (egoic self-importance), hawa (desire that screams I want it now), dunya-noise (entertainment addiction, status anxiety, busyness), and despair (giving up on Allah's mercy, which kills motivation to repent). Symptoms include ritual without presence, riya' (performing piety to impress people), delaying tawbah because later I'll be religious, moral desensitization, mocking serious faith, and losing haya' (healthy shame). Tech culture can weaponize gaflah: infinite feeds capture attention and the soul forgets muraqabah (that Allah is watching) and forgets death and akhira. Consumer culture rewards comparison, envy, and constant wanting. Gaflah is most dangerous when it feels normal. Early warnings: dua dries up, Qur'an feels emotionally far, sin feels light. The cure is re-awakening the heart through remembrance, honest tawbah, service to others, and re-entering circles of dhikr and knowledge.",
+      "long_tr": "Gaflet sadece bilgisizlik değildir; ruhun uyuşmasıdır. Kişi teoride biliyor olabilir ama kalp hissizdir. Kur'an insanı gafillerden olmaktan sakındırır ve zikre çağırır. Gafletin kaynakları: nefsin kibri (ben merkezlilik), hevâ (şimdi istiyorum diyen arzu), dünya gürültüsü (eğlence bağımlılığı, statü yarışı, sürekli meşguliyet) ve yeis yani Allah'ın rahmetinden ümidi kesmek. Bu ümitsizlik tevbe enerjisini öldürür. Belirtiler: kalpsiz ibadet, riya (insanlara gösteriş), sonra tövbe ederim bahanesi, günah karşısında duyarsızlaşma, ciddi imanı alaya alma ve hayânın zayıflaması. Dijital kültür bu gafleti büyütebilir: sonsuz kaydırma dikkati esir alır; kul murakabeyi ve ölümü/ahireti hatırlamayı unutur. Tüketim kültürü kıyas ve kıskançlığı sürekli körükler. Gaflet en tehlikeliyken normal gelir. Erken işaretler: dua azalır, Kur'an kalbe yabancılaşır, günah hafif hissettirmeye başlar. Çare: kalbi yeniden uyandırmak, zikir, samimi tevbe, hizmet ve ilim ile zikir meclislerine geri dönmektir."
     },
     {
       "id": "awakening_cycle",
-      "title": "Awakening Cycle: Tawbah → Telafi → Istikrar → Hizmet",
-      "summary": "A practical loop for renewal: Awareness, Repentance, Repair, Consistency, and Service.",
+      "title": "Awakening Cycle: Tawbah → Repair → Consistency → Service",
+      "summary": "Practical loop for renewal. Do not stop at I feel bad. Move through regret, repair, stability, and giving back.",
       "bullets": [
-        "Farkındalık: name it; don’t rationalize it.",
-        "Tawbah: regret + abandonment + resolve + where possible restitution.",
-        "Telafi (Repair): counter-acts (sadaka, extra prayer, fasting).",
-        "Istikrar (Consistency): small daily deeds loved by Allah.",
-        "Hizmet (Service): share benefit; light expands when given."
+        "Awareness (i'tiraf): Name the slip. No self-deception, no excuses.",
+        "Tawbah: sincere regret, immediate stopping, firm resolve not to return, plus asking Allah's forgiveness.",
+        "Repair (telafi): follow a wrong with a right, for example charity, extra salah, fasting, apology.",
+        "Consistency (istikrar): build small daily habits loved by Allah; stability matters more than dramatic spikes.",
+        "Service (khidmah): turn personal healing outward; help others so mercy circulates."
       ],
       "practices": [
-        "Immediate two-rak‘ah tawbah prayer after lapses.",
-        "Pair each slip with a concrete charity or help task within 24h."
+        "Two rak'ah salah of repentance right after a slip.",
+        "Within 24 hours of a lapse: do one concrete act of sadaqah or quiet help, purely for Allah."
       ],
-      "tags": ["tawbah","habits","service"],
+      "tags": [
+        "tawbah",
+        "habits",
+        "service",
+        "healing"
+      ],
       "level": "intro",
-      "est_read_min": 5
+      "est_read_min": 6,
+      "long_en": "The Awakening Cycle is how you bounce back in a prophetic way instead of drowning in shame. Step 1: Awareness. Admit clearly to yourself and to Allah, 'I did this.' No sugarcoating. This honesty is itself ubudiyyah (servanthood). Step 2: Tawbah. Classical definition includes remorse, stopping the sin now, firm intention not to repeat, and if you harmed someone, making amends where possible. Allah is At-Tawwab, constantly inviting you back. Step 3: Repair. The Prophet ﷺ taught: 'Follow a bad deed with a good deed and it will erase it' (reported in at-Tirmidhi). So pair the slip with sadaqah, extra prayer, fasting, apology, fixing what you broke. This flips the story from 'I am doomed' to 'I am actively healing.' Step 4: Consistency. Allah loves small deeds done regularly. Guard prayer times, daily Qur'an, brief dhikr. Step 5: Service. When Allah patches your heart, you become a tool of rahmah for others. Visit someone lonely, defend someone from backbiting, teach a skill. Mercy spreads. This cycle prevents despair and also prevents hypocrisy where we pretend nothing happened. It is humble, actionable, and rooted in Prophetic teaching.",
+      "long_tr": "Uyanış Döngüsü seni utançta boğmadan ama hafife de almadan toparlamayı hedefler. Peygamberî bir modeldir. 1. Farkındalık ve itiraf: 'Bunu yaptım' deme cesareti. Bahane üretmemek. Bu çıplak dürüstlük bile ubudiyet yani kulluktur. 2. Tevbe: Pişmanlık, günahı hemen bırakmak, bir daha dönmemeye azmetmek ve kul hakkı varsa telafi etmeye çalışmak. Allah Tevvab'dır; seni geri çağırır. 3. Telafi ve ıslah: Resul ﷺ buyurur ki, kötü bir amelin ardından iyi bir amel işle; o kötüyü siler. Yani hemen sadaka, ekstra namaz, oruç, özür, onarım. Bu, 'Ben bittim' hikayesini 'Ben toparlanıyorum' hikayesine çevirir. 4. İstikrar: Allah düzenli yapılan küçük ameli sever. Büyük patlamalardan ziyade süreklilik kıymetlidir. Namaz vakitlerini, günlük Kur'an payını, kısa zikri koru. 5. Hizmet: Allah kalbini onardıkça seni başkalarına rahmet aracı yapar. Yalnız birini ziyaret etmek, gıybeti kesmek, bir beceri öğretmek, merhameti yaymaktır. Bu döngü hem ümidi kesmeyi hem de hiçbir şey olmamış gibi davranan nifakı engeller."
     },
     {
       "id": "habit_formation",
       "title": "Habit Science & Nafs Training",
-      "summary": "Design environments and routines that make obedience easy and disobedience hard.",
+      "summary": "Design your environment so that obedience is easy and disobedience is hard. This is mujahada (striving).",
       "bullets": [
-        "Cue → Routine → Reward: attach dhikr/recitation to stable cues (after salat, commutes).",
-        "Friction engineering: block, filter, schedule; remove triggers; add delays.",
-        "Replacement > suppression: swap with halal, meaningful activities.",
-        "Streak psychology: guard first 7, 30, 90 days with shields and allies.",
-        "Relapse math: treat a lapse as data; re-enter the cycle fast."
+        "Cue → Routine → Reward: Attach Qur'an recitation or dhikr to stable cues like after Fajr, commute, or before sleep.",
+        "Friction: Block triggers, add delay between impulse and action, schedule screen-free hours to reduce chances for the nafs to auto-sin.",
+        "Replacement over suppression: Swap the destructive behavior with halal, beneficial engagement such as study, exercise, helping someone.",
+        "Protect early streaks: The first 7, 30, 90 days are fragile; guard them with allies and structure.",
+        "Relapse is not game over. Treat it as data: re-enter the Awakening Cycle fast."
       ],
-      "tags": ["habits","streak","environment","friction"],
+      "tags": [
+        "habits",
+        "streak",
+        "environment",
+        "mujahada",
+        "self_control"
+      ],
       "level": "intermediate",
-      "est_read_min": 6
+      "est_read_min": 7,
+      "long_en": "Islamic self-discipline (mujahadat an-nafs) and modern habit science agree on something practical: environment beats willpower. Most failures happen because the environment keeps pushing the same temptation. Strategy 1: cue stacking. Tie a desired act (dhikr, istighfar, reading one page of Qur'an) to an existing routine like morning coffee or after salah. This turns spirituality into rhythm, not random bursts. Strategy 2: friction engineering. Make disobedience slower and obedience easier. Block certain apps at vulnerable hours, keep the phone out of the bedroom at night, have wudu and prayer space ready. This is wisdom, not weakness. Strategy 3: replacement. You cannot just delete a craving; you must redirect it. Replace doomscrolling with a walk plus dhikr; replace anger with stepping away and dua for sabr; replace isolation with a halaqah or a trusted call. Strategy 4: streak protection. The first week, first month, first quarter are like newborn stages. Add accountability, routine, sleep, nutrition. Strategy 5: relapse recovery. A slip does not cancel your identity. You are not fake because you stumbled. You go back to the Awakening Cycle: awareness, tawbah, repair, stability, service.",
+      "long_tr": "Nefisle mücadele (mücahade) ve modern alışkanlık bilimi şunu söyler: ortam iradeyi yener. Çoğu tökezleme aynı tuzağa sürekli maruz kalındığı için yaşanır. 1. Tetik zinciri: İstediğin ameli (zikir, istiğfar, günde bir sayfa Kur'an) sabit bir rutine bağla, mesela sabah kahvesi, her farz namaz sonrası ya da uyumadan hemen önce. Böylece maneviyat patlama değil ritim olur. 2. Sürtünme ayarı: Günahı zorlaştır, itaati kolaylaştır. Zayıf saatlerde bazı uygulamaları kilitle, telefonu gece yatak odası dışında tut, abdestli ve hazır bir namaz köşesi oluştur. Bu zayıflık değil hikmettir. 3. İkame: Sırf bastırmak yetmez; yön değiştirmek gerekir. Boş kaydırmayı yürüyüş ve zikirle değiştir, öfkeyi ara verip sabır duasına çevir, yalnızlığı ders halkası veya güvenilir bir dostla sohbetle değiştir. 4. Seri koruma: İlk 7, 30, 90 gün bebek gibidir. Uykunu, beslenmeni, sorumluluk arkadaşını özellikle koru. 5. Geri düşüş yönetimi: Bir hatada ben bittim deme. Bu seni sahte yapmaz. Tekrar Uyanış Döngüsü'ne gir: farkındalık, tevbe, telafi, istikrar, hizmet."
     },
     {
       "id": "takwa_definition",
       "title": "Taqwa: Definition & Layers",
-      "summary": "Taqwa is guarding the heart from Allah’s displeasure by obeying commands and avoiding prohibitions.",
+      "summary": "Taqwa is guarding oneself from Allah's displeasure by obeying His commands and avoiding what He forbids.",
       "bullets": [
-        "Heart layer: sincerity (ikhlas), presence (hudur), reliance (tawakkul).",
-        "Action layer: fara’id on time, halal integrity, guarding gaze and tongue.",
-        "Social layer: trustworthiness, justice, compassion, fulfilling amanah.",
-        "Economic layer: avoid riba, honesty in trade, modest consumption.",
-        "Crisis layer: sabr + shukr under trials and blessings."
+        "Heart layer: ikhlas (sincerity), hudur (presence before Allah), tawakkul (reliance).",
+        "Action layer: salah on time, halal livelihood, truthful speech, guarded gaze and tongue.",
+        "Social layer: amanah (trustworthiness), 'adl (justice), rahmah (mercy) in dealings.",
+        "Economic and ethics layer: avoiding riba and oppression, consuming and earning with conscience.",
+        "Crisis layer: sabr (steadfast patience) in hardship and shukr (gratitude) in ease."
       ],
-      "tags": ["taqwa","ikhlas","sabr","shukr"],
+      "tags": [
+        "taqwa",
+        "ikhlas",
+        "sabr",
+        "shukr",
+        "amanah",
+        "adl"
+      ],
       "level": "intro",
-      "est_read_min": 6
+      "est_read_min": 6,
+      "long_en": "Taqwa is often translated as God-consciousness or piety, but literally carries the sense of shielding yourself from Allah's displeasure. Classical scholars describe taqwa as putting a barrier between you and sin, like walking through thorny bushes lifting your clothes carefully. Layer 1: Inner. Ikhlas (do it for Allah), hudur (be mentally present with Allah, not on autopilot), tawakkul (trust Allah instead of panicking). Layer 2: Outward actions. Praying on time, pursuing halal income, guarding gaze and tongue, keeping promises. These are baseline taqwa. Layer 3: Social trust. A person of taqwa is safe to deal with, does not abuse, cheat, backbite, betray, or exploit the weak. They carry amanah. Layer 4: Economy and justice. Taqwa reaches money. Avoiding riba, fraud, oppression, bribery, predatory contracts, and living with modest consumption instead of worshipping luxury. Layer 5: Sabr plus shukr. Responding to tests with patience and to blessings with gratitude. Both are core taqwa behaviors and both are worship.",
+      "long_tr": "Takva genelde Allah bilinci diye çevrilir; aslında korunmak manasını taşır: kişi kendini Allah'ın gazabından, günahın ateşinden sakınır. Klasik tarif dikenli bir yolda yürürken elbiseni toplar dikkatle geçersin benzetmesini kullanır. 1. Kalbi katman: ihlas (sadece Allah için yapmak), huzur (Allah huzurunda olduğunun farkında olmak), tevekkül (sonucu panikle değil Allah'a güvenerek bırakmak). 2. Amel katmanı: namazı vaktinde kılmak, helal kazanç peşinde olmak, gözü ve dili korumak, söze sadık olmak. Bunlar ekstra değil; takvanın asgarisidir. 3. Sosyal güven: takva sahibi insanla insanlar huzurludur. Zulmetmez, aldatmaz, gıybet etmez, emanete ihanet etmez, zayıfı ezmez. 4. Ekonomi ve adalet: takva paraya uzanır. Faiz, rüşvet, haksız sözleşme ve sömürüden kaçınmak; tüketimde israf ve gösterişi terk etmek. 5. Sabr ve şükür: imtihanda sabır, nimette şükür. İkisi de takvanın omurgasıdır ve ibadettir."
     },
     {
       "id": "takwa_ladder",
       "title": "The Taqwa Ladder",
-      "summary": "A practical scaffold from personal discipline to communal benefit and ummatic service.",
+      "summary": "Spiritual growth moves outward: self → family → community → ummah. Each layer supports the next.",
       "bullets": [
-        "Step 1: Personal—daily salat with presence, dhikr, Qur’an portion.",
-        "Step 2: Family—mercy at home, ties of kinship, shared learning.",
-        "Step 3: Community—masjid life, volunteering, local relief.",
-        "Step 4: Ummah & Humanity—projects that spread knowledge, justice, mercy.",
-        "Each higher step presumes the stability of the lower."
+        "Step 1: Self — daily salah with presence, Qur'an portion, dhikr, personal ethics.",
+        "Step 2: Family — mercy at home, keeping kinship ties (silat ar-rahim), sharing knowledge together.",
+        "Step 3: Community — masjid life, volunteering, local relief for those in need.",
+        "Step 4: Ummah and Humanity — projects that spread justice, education, mercy, dignity.",
+        "Higher steps should not replace lower steps; serving the world while neglecting personal obligations is imbalance."
       ],
-      "tags": ["ladder","community","service"],
+      "tags": [
+        "ladder",
+        "community",
+        "ummah",
+        "family",
+        "service"
+      ],
       "level": "intro",
-      "est_read_min": 5
+      "est_read_min": 5,
+      "long_en": "The Taqwa Ladder is a map for prioritized responsibility. 1. Self. Anchor fard worship, halal and haram boundaries, and daily remembrance. Without this base, activism can become ego or anger instead of worship. 2. Family. The Prophet ﷺ emphasized mercy in the household. Keeping ties of kinship is a serious duty. Teaching each other Qur'an, praying together sometimes, resolving conflict with ihsan, all count as dawah. 3. Community. Show up in your masjid or local community. Volunteer. Support relief for the poor, sick, elderly, lonely. A believer is described as one who benefits others. 4. Ummah and Humanity. Work for broader justice and mercy: education, dawah, social fairness, defending dignity. But if you skip earlier steps this can become hollow branding. The Ladder forces us to ask: am I skipping step 1 and pretending I am on step 4 for clout?",
+      "long_tr": "Takva Merdiveni sorumluluğun öncelik sırasını gösterir. 1. Nefs: farz ibadetini oturt, helal haram sınırını ciddiye al, günlük zikir ve Kur'an payını koy. Bu temel yoksa aktivizm nefis gururuna ya da öfkeye dönüşebilir. 2. Aile: Peygamber ﷺ aile içi merhameti çok vurguladı. Sıla-i rahim farz öncelikli bir sorumluluktur. Birlikte Kur'an okumak, bazen beraber namaz kılmak, sorunları ihsanla çözmek tebliğdir. 3. Cemaat: Mescide ve mahallene dahil ol. Gönüllü ol. Muhtaçları, yaşlıları, yalnızları gözet. Hadislerde mümin insanlara fayda veren kişi olarak anlatılır. 4. Ümmet ve insanlık: Daha geniş adalet ve merhamet için çalışma, eğitim, davet, sosyal adalet, insan onurunu savunma. Ama ilk basamaklar zayıfsa bu uğraş slogana ve gösterişe dönüşür. Merdiven şu soruyu sordurur: 1. basamak çökükken ben 4. basamak rolü mü yapıyorum?"
     },
     {
       "id": "digital_kalkanlar",
       "title": "Digital Shields & Clean Timer",
-      "summary": "Guard the gates: design digital kalkanlar (shields) and run a clean-time counter with mercy-based resets.",
+      "summary": "Track streaks of self-control without shame. Goal is mercy-driven growth, not perfection theatre.",
       "bullets": [
-        "App/website block lists aligned with your known triggers.",
-        "Phone-free hours (post-Isha to post-Fajr) for sleep and dawn light.",
-        "Public commitment with a trusted buddy; immediate tawbah protocol.",
-        "Replace: walking, wudu’, dhikr beads, reading circles.",
-        "Metrics: ‘clean days’, ‘urges resisted’, ‘service acts after lapses’."
+        "Shielding: block sites or apps tied to known temptations during vulnerable hours.",
+        "Sacred windows: phone-free time (for example, post-Isha to post-Fajr) to protect sleep, dawn barakah, and mental clarity.",
+        "Accountability buddy: one trusted, non-judgmental person for check-ins and dua.",
+        "Replacement rituals: wudu, dhikr beads, stretching or walking instead of scrolling, short Qur'an recitation.",
+        "Metrics: clean days, urges resisted, service after lapse. All private; never a public scoreboard."
       ],
       "practices": [
-        "3–7–30–90 day clean milestones with sadaqah pledges.",
-        "Zikir micro-sets (e.g., after each urge: 10× istighfar + 1 good deed)."
+        "Set realistic milestones (3, 7, 30, 90 days) and tie each to sadaqah or a kindness act.",
+        "After a slip: immediate tawbah plus one concrete help-to-others act within 24h."
       ],
-      "tags": ["digital_detox","streaks","zikir"],
+      "tags": [
+        "digital_detox",
+        "streaks",
+        "zikir",
+        "amanah",
+        "privacy"
+      ],
       "level": "intro",
-      "est_read_min": 5
+      "est_read_min": 6,
+      "long_en": "The modern nafs battlefield often sits in the phone. The idea of digital shields is to treat attention as amanah. A shield can be as simple as blocking certain apps after 10pm, deleting accounts that trigger envy or desire, charging your phone outside the bedroom, or declaring Fajr to sunrise as sacred no-phone time. The clean timer is a mercy-based streak counter. You privately track days of avoiding a known harmful pattern. After a slip you do not drown in shame. You reset with tawbah, log the lesson, immediately do a repair act (charity, apology, helping someone), and continue. The point is direction, not fake perfection. Because riya is spiritually toxic, these metrics belong to you alone. The app should default to private mode and discourage public bragging. Progress is between you and Allah, with select trusted support if you choose.",
+      "long_tr": "Bugünün nefs mücadelesi çoğu zaman cebimizdeki ekranda yaşanıyor. Dijital kalkan fikri dikkati bir emanet olarak görmektir. Kalkan örnekleri: belli saatten sonra bazı uygulamaları kilitlemek, kıskançlık ya da şehvet tetikleyen hesapları silmek, telefonu yatak odası dışında şarj etmek, sabah namazı ile güneş doğumu arasını dokunulmaz ekran zamanı ilan etmek. Temiz zaman sayacı utandırma aracı değil; merhamet odaklı bir takip aracıdır. Zararlı bir davranıştan uzak kaldığın günleri gizlice sayarsın. Düşünce hemen ben bittim değil; tevbe, dersi not etme, 24 saat içinde somut bir hayır (sadaka, özür, yardım) ve yola devam. Riya kalbi zehirler. Bu yüzden bu ölçümler özeldir. Uygulama varsayılan olarak gizliliği korumalı ve övünmeyi caydırmalıdır. Gelişim Allah ile aranda ve güvendiğin birkaç kardeşledir; kalabalığa şov değildir."
     },
     {
       "id": "takwa_index",
       "title": "Taqwa Index (TE) — Spec & Weights",
-      "summary": "A transparent, mercy-centered index to track practices without breeding pride; private by default.",
+      "summary": "Private, mercy-centered score to support self-awareness. Never for public clout; always adjustable with tawbah and repair.",
       "bullets": [
-        "Foundations carry multipliers: obligatory on time ×2; halal income ×1.5; gaze/ tongue guard ×1.2.",
-        "Istikrar bonus: weekly consistency +10%; clean-timer milestones add one-off boosts.",
-        "Tawbah-boost: lapses followed by repair acts apply a recovery coefficient.",
-        "Hidden mode: suppresses public badges to fight riya’.",
-        "Community weight caps: service points limited unless personal foundations are stable."
+        "Foundations get highest weight: obligatory prayers on time, halal income, guarding gaze and tongue.",
+        "Daily dhikr and Qur'an add steady nourishment multipliers.",
+        "Consistency bonus: weekly stability in worship increases score gently.",
+        "Clean-timer milestones give one-time boosts to encourage resilience, not ego.",
+        "Recovery bonus: if you slip but respond with tawbah and repair within 24h, you get a recovery coefficient.",
+        "Public leaderboards are discouraged to avoid riya; hidden mode is default."
       ],
       "data": {
         "weights": {
@@ -221,105 +319,180 @@
           "repair_act_min": 1
         }
       },
-      "tags": ["metrics","ethics","privacy"],
-      "questions": ["How can I keep score privately yet stay motivated?"],
+      "tags": [
+        "metrics",
+        "ethics",
+        "privacy",
+        "riya_safety"
+      ],
+      "questions": [
+        "How can I stay motivated without turning worship into a vanity scoreboard?",
+        "Am I using the score to humble myself or to feel superior?"
+      ],
       "level": "intermediate",
-      "est_read_min": 8
+      "est_read_min": 8,
+      "long_en": "The Taqwa Index (TE) is a self-reflection tool, not a measure of who is better. Only Allah truly knows hearts. The index exists to help the user notice patterns: Are my prayers on time? Am I slipping at night? Am I serving anyone? Scoring emphasizes fard duties first, like prayer on time and halal income. It values consistency because Allah loves steady deeds. It weights guarding gaze and tongue, because many collapses begin with the eyes, the scroll, the DM, the sarcasm, the gossip. Compassion is built in. If you fall but repent quickly and actively repair harm within 24h, TE gives a recovery bonus. You are training resilience, not pretending perfection. Clean streaks at 7, 30, 90 days add encouragement bonuses. The default is private mode. Public bragging kills sincerity and invites riya. TE should whisper: Return to Allah with hope, not Flex on people.",
+      "long_tr": "Takva Endeksi (TE) bir öz-muhasebe aracıdır; kim daha üstün yarışı değildir. Kalpleri hakikaten bilen yalnız Allah'tır. Ama insan bazen nerede tökezlediğini göremediği için böyle bir araç faydalıdır. Puanlama farzlara öncelik tanır: namazı vaktinde kılmak, helal kazanç peşinde olmak gibi. İstikrarı ödüllendirir; çünkü Rabbimiz düzenli küçük ameli sever. Gözü ve dili korumayı ciddiye alır; çünkü çoğu çöküş gözde, scroll'da, mesajda, alaycı dilde veya gıybette başlar. Merhamet mekanizması dahildir: Düşsen bile hızlı tevbe edip 24 saat içinde telafiye koşarsan TE buna toparlanma bonusu verir. Bu mükemmeliyetçilik değil; dayanıklılık eğitimidir. 7, 30, 90 günlük temiz süre eşikleri seni teşvik eder. Varsayılan gizli moddur. Açık teşhir riya riskini büyütür. TE'nin mesajı Allah'a ümitle dön olmalı; İnsanlara hava at değil."
     },
     {
       "id": "percentiles",
-      "title": "Percentile Targets (Global Heuristics)",
-      "summary": "Approximate thresholds to visualize progress humbly; use as guideposts, not bragging rights.",
+      "title": "Percentile Targets (Heuristic Only)",
+      "summary": "Rough guideposts to visualize growth humbly. They are invitations, not ranks.",
       "bullets": [
-        ">25%: all fara’id on time + daily Qur’an/dhikr habit + basic halal integrity.",
-        ">5%: + weekly charity/service + guarded gaze/tongue + weekly study circle.",
-        ">1%: + consistent dawn routine (Fajr jama‘ah when possible) + monthly community project.",
-        "~1-in-1,000,000: multi-year consistency across worship, ethics, and service with hidden mode and zero-riba livelihood."
+        "About 25 percent tier: All fard prayers on time, daily Qur'an or dhikr habit, halal income integrity.",
+        "About 5 percent tier: Above plus weekly charity or service, guarded gaze and tongue, weekly study circle.",
+        "About 1 percent tier: Above plus consistent dawn routine (Fajr in jama'ah when possible) and monthly community project.",
+        "Rare tier: Years of consistency across worship, ethics, and service, kept mostly hidden from public view."
       ],
-      "tags": ["percentiles","targets","heuristics"],
+      "tags": [
+        "percentiles",
+        "targets",
+        "humility",
+        "growth"
+      ],
       "level": "intermediate",
-      "est_read_min": 5
+      "est_read_min": 5,
+      "long_en": "These percentiles are not lab statistics; they are motivational sketches. Many people never stabilize even the basics: prayer on time, halal sustenance, honest speech. If you stabilize those, you are already in a minority of discipline. Adding regular charity, guarding the gaze, and showing up to circles of knowledge narrows the group further. A life that keeps Fajr, serves others, resists riba and oppression, and hides good deeds for decades is extremely rare. Use this not for arrogance but for perspective. You might be telling yourself I am worthless while in reality Allah has already guided you to gifts many people struggle to begin. Say alhamdulillah and keep going. Flip side: If you are high percentile in public service but your private fard duties are collapsing, the Ladder is out of order. Return to step 1.",
+      "long_tr": "Bu yüzdelikler matematiksel veri değildir; ufuk çizgisidir. Birçok insan en temel hattı bile oturtamıyor: namazı vaktinde kılmak, helal rızık, dürüst dil. Sen bunları istikrara kavuşturduysan aslında disiplin açısından azınlıktasın. Buna düzenli sadaka veya hizmet, gözü-dili koruma, ilim halkasına devam da eklenince bu topluluk daha da küçülür. Yıllarca sabah namazını, adaleti, infakı, tevazuu, mahremiyeti korumak ve bunu şova çevirmeden yaşamak ise çok nadir bir nimettir. Bunu kibir için değil perspektif için kullan. Ben hiçim diyorsun belki ama Allah seni nice kişinin daha başlayamadığı nimetlere sokmuş olabilir. Elhamdulillah de ve devam et. Tersi durumda: Dışarıda hizmetin çok ama içeride farzların çökmüşse, Merdiven sıralaması bozulmuştur. Yeniden birinci basamağa dön."
     },
     {
       "id": "ethics_adab",
       "title": "Ethics, Boundaries, and Adab",
-      "summary": "Seek Allah’s pleasure, not people’s gaze; keep creed safe; avoid sectarian harm.",
+      "summary": "Seek Allah's pleasure, not applause. Keep creed safe. Avoid shaming others. Differences require mercy.",
       "bullets": [
-        "No anthropomorphism, no negation; follow sound creed.",
-        "Avoid riya’: prefer hidden good; keep TE private by default.",
-        "Stay within madhhab boundaries in ibadah; consult scholars for nuance.",
-        "Disagree with adab; seek unity on essentials and mercy on details.",
-        "Protect dignity: no shaming, no exposure of faults."
+        "Creed safety: Affirm Allah's Names and Attributes as revealed, without likening Him to creation and without denying them.",
+        "Riya shield: Keep most good deeds hidden. The app should discourage public bragging; TE scores default private.",
+        "Madhhab adab: Follow qualified scholarship in fiqh and ibadah. Do not mock other valid Sunni opinions.",
+        "Unity principle: Agree on tawhid and pillars; disagree with gentleness on secondary matters.",
+        "Protect dignity: Never humiliate or expose someone's private struggle. Remind them of Allah's Rahmah, not their shame."
       ],
-      "tags": ["adab","riya","madhhab","unity"],
+      "tags": [
+        "adab",
+        "riya",
+        "madhhab",
+        "unity",
+        "mercy"
+      ],
       "level": "intro",
-      "est_read_min": 5
+      "est_read_min": 6,
+      "long_en": "Adab is part of 'ilm. Knowledge without adab becomes a weapon. 1. Creed: We affirm Allah's Names and Attributes without distortion, denial, or anthropomorphism. This protects tawhid and we end statements with humility like Allahu a'lam (Allah knows best). 2. Anti-riya. Riya (showing off) poisons deeds. That is why the app emphasizes privacy. We track for personal muhasabah, not for social clout. Hidden good is spiritually safer. 3. Madhhab manners. Scholars legitimately differed on fiqh details. That is normal. Do not mock valid opinions within Sunni scholarship. If you need nuance, ask a qualified teacher, not an algorithm. 4. Unity and mercy. We unify on tawhid, the prophethood of Muhammad ﷺ, the Qur'an as guidance, and the pillars of Islam. On secondary matters, we keep adab. Sectarian arrogance kills barakah. 5. Dignity. Never shame someone or expose their weakness. The Prophet ﷺ was sent as Rahmah. Our tone should heal, not humiliate. We invite, we do not broadcast people's sins.",
+      "long_tr": "Edep ilmin parçasıdır. Edepsiz ilim silahtır. 1. Akide: Allah'ın isim ve sıfatlarını teşbihsiz ve inkarsız tasdik ederiz. Bu tevhidi korur. Allah en doğrusunu bilir tevazusuyla konuşuruz. 2. Riya kalkanı: Riya ameli zehirler. Bu yüzden uygulama mahremiyeti esas alır. Takip hava atmak için değil nefis muhasebesi içindir. Gizli iyilik kalbi daha güvende tutar. 3. Mezhep edebi: Fıkhi detaylarda alimler ihtilaf etti; bu normaldir. Sünni çizgideki muteber görüşlerle alay etmek edepsizliktir. İnce meselede sosyal medya yerine ehil bir alime sor. 4. Vahdet ve merhamet: Tevhid, Hz. Muhammed ﷺ'in risaleti, Kur'an'ın hidayeti, İslam'ın şartları ortak paydamızdır. Tali konularda yumuşak kal. Mezhepçilik kibrine kapılma; bereketi söndürür. 5. Haysiyet koruması: Birini utandırmak, günahını ifşa etmek bize düşmez. Resul ﷺ rahmet olarak gönderildi. Üslubumuz yaralamak değil, onarmak olmalı. Davet ederiz; teşhir etmeyiz."
     },
     {
       "id": "family_society",
       "title": "Family, Work, and Society",
-      "summary": "Ma'rifah blossoms when it reforms daily roles: family mercy, honest work, trustworthy citizenship.",
+      "summary": "Ma'rifah shows up in real life: mercy at home, honesty at work, service in society.",
       "bullets": [
-        "Home: gentleness, humor, shared worship and learning.",
-        "Work: amanah, excellence (ihsan), no riba/haram revenue.",
-        "Society: help the vulnerable; volunteer; be a bridge of mercy.",
-        "Digital citizenship: truthfulness, modesty, no harm (la darar).",
-        "Seasonal rhythms: Ramadan, Dhul-Hijjah, retreats, sadaqah plans."
+        "Home: gentle speech, patience, playful warmth, shared worship and learning. Mercy is Sunnah.",
+        "Work: amanah and ihsan, doing work with excellence and honesty, avoiding haram income or oppression.",
+        "Society: help the vulnerable, defend dignity, volunteer quietly, be trustworthy. Be known as the person who helps.",
+        "Digital citizenship: truthfulness, modesty, no slander (ghibah), no humiliation of others.",
+        "Seasonal rhythms: Ramadan focus, Dhul-Hijjah sacrifice and charity, periodic retreats to reset intention."
       ],
-      "tags": ["family","work","civics","seasons"],
+      "tags": [
+        "family",
+        "work",
+        "civics",
+        "mercy",
+        "amanah"
+      ],
       "level": "intro",
-      "est_read_min": 6
+      "est_read_min": 6,
+      "long_en": "Ma'rifah (knowing Allah) is proven by how we treat those closest to us. If we speak beautifully in religious spaces but are cruel at home, that is a warning sign. Family: The Prophet ﷺ was described as gentle with his family. Mercy, humor, quality time, and teaching good together are core Sunnah. Maintaining family ties (silat ar-rahim) is a major obligation. Work: A believer seeks halal income and refuses zalim practices. Ihsan at work means doing things with excellence even if no one is watching, because Allah is Ar-Raqib (the Watchful). It also means refusing to feed your family with riba, fraud, or exploitation. Society: We are khulafa (stewards). That means visiting the lonely, feeding those in need, advocating for the weak, carrying ourselves with trustworthiness. Quiet consistency beats loud slogans. Digital: Your online speech is part of your hisab. Truthfulness, modesty, no ghibah, no public humiliation. You represent your deen. Seasons: Islam gives rhythm. Ramadan is purification and generosity. Dhul-Hijjah is sacrifice and service. Even a half-day retreat alone with Qur'an and dhikr can reset sincerity.",
+      "long_tr": "Ma'rifet yani Allah'ı tanıma en çok en yakındaki ilişkilerde ispatlanır. Dışarıda dindar görünüp evde kaba olmak kalp için alarmdır. Aile: Peygamber ﷺ ailesine yumuşaktı. Merhamet, şefkatli mizah, kaliteli vakit ve birlikte hayrı hatırlamak Sünnettir. Sıla-i rahim farz öncelikli bir sorumluluktur. İş: Mümin, helal rızık peşindedir ve zulme ortak olmaz. İşte ihsan, kimse görmese de dürüst ve kaliteli iş çıkarmaktır. Aynı zamanda riba, hile, sömürü ile aileyi beslememektir. Toplum: Mümin güvenilir kişidir. İhtiyaç sahibini gözetir, yalnızı ziyaret eder, muhtaca destek olur, merhamet taşır. Sessiz istikrar, yüksek slogandan daha değerlidir. Dijital: Çevrimiçi sözlerin de hesabı vardır. Doğruluk, iffetli üslup, gıybetten kaçınma, başkasını küçük düşürmeme imanın parçasıdır. Mevsimler: İslam ibadeti zamana yayar. Ramazan arınma ve cömertliktir; Zilhicce kurban ve hizmettir. Kısa inzivalar (yarım günlük bile olsa Kur'an ve zikirle yalnız kalmak) niyeti yeniler."
+    },
+    {
+      "id": "marifet_ladder",
+      "title": "The Ma'rifah Ladder: Ilm → Tazakkur → Tafakkur → Dhikr → Ihsan",
+      "summary": "A stepwise spiritual development model: information becomes remembrance, deep reflection, constant awareness, then ihsan.",
+      "bullets": [
+        "Ilm (knowledge): learn sound concepts of Allah from Qur'an, Sunnah, and reliable scholars.",
+        "Tazakkur (reminding): call that knowledge back to the heart throughout the day.",
+        "Tafakkur (deep reflection): sit with the meaning; connect it to your life, mortality, hopes, fears.",
+        "Dhikr (remembrance / presence): keep Allah in active awareness moment to moment; muraqabah (feeling watched with mercy).",
+        "Ihsan: live as if you see Allah, and if you cannot, know Allah sees you (Hadith Jibril)."
+      ],
+      "tags": [
+        "marifah",
+        "ihsan",
+        "dhikr",
+        "tafakkur",
+        "tazakkur"
+      ],
+      "level": "intro",
+      "est_read_min": 6,
+      "long_en": "The Ma'rifah Ladder is the spine of the app. Stage 1: Ilm. You learn a Name of Allah, a verse, a hadith, a theological principle. This is cognitive and textual. Stage 2: Tazakkur. You recall that knowledge during the day, after a meeting, when stressed, when tempted. You whisper it to yourself, keeping it warm instead of letting it die in a notebook. Stage 3: Tafakkur. You sit and truly ask: What does it mean that Allah is Ar-Rahman in my crisis? How does Al-Adl challenge how I treat coworkers? This connects theology with biography. Stage 4: Dhikr and muraqabah. Awareness becomes more continuous. You remember Allah in motion, not only in formal study. You behave differently because you feel watched by Ar-Raqib, loved by Al-Wadud, supported by Al-Wakil. Stage 5: Ihsan. This is the prophetic ideal: to worship Allah as if you see Him. It is not constant ecstasy. It is a settled state of sincerity, humility, and presence. You become safer to others, more just, more gentle, more purposeful. That is mature ma'rifatullah.",
+      "long_tr": "Ma'rifet Merdiveni uygulamanın omurgasıdır. 1. İlim: Allah'ın bir ismini, bir ayeti, bir hadisi, bir akide esasını öğreniyorsun. Bu zihinsel temeldir. 2. Tezekkür: Bu bilgiyi gün içinde tekrar kalbine çağırıyorsun, stresliyken, öfkelenince, karar verirken. Kendine fısıldıyorsun. Böylece bilgi defterde soğumuyor; kalpte sıcak kalıyor. 3. Tefekkür: Rahman oluşu şu sıkıntımda ne demek, Adl ismi iş arkadaşlarıma davranışımı nasıl sorgulatıyor diye düşünüyorsun. Yani akideyi biyografinle buluşturuyorsun. 4. Zikir ve murakabe: Artık bu farkındalık daha sürekli. Sadece ders halkasında değil; yürürken, çalışırken, aileyle konuşurken Allah'ı hatırlıyorsun. Kendini Rakib olan'ın gözetimi, Vedud olan'ın sevgisi, Vekil olan'ın kefaleti altında hissediyorsun. 5. İhsan: Allah'ı görüyormuş gibi ibadet hali. Bu sürekli vecd değil; samimiyet, tevazu ve huzur hali. İnsanlar için daha güvenli, daha adil, daha merhametli, daha maksatlı biri oluyorsun. Bu olgun ma'rifettir."
     },
     {
       "id": "daily_program",
       "title": "Daily/Weekly Program",
-      "summary": "Minimal, sustainable program to internalize one Name at a time.",
+      "summary": "Minimal, sustainable plan: one Name per day, short dhikr after each prayer, weekly service, periodic digital detox.",
       "bullets": [
-        "Daily: one Name—read meaning, reflect 5–10 min, live one action.",
-        "After each prayer: short dhikr set + gratitude note.",
-        "Weekly: attend a circle; review notes; one charity or help act.",
-        "Monthly: mini-retreat (half day) + digital detox window.",
-        "Quarterly: reassess goals; re-balance the Ladder steps."
+        "Daily: choose one Divine Name, read its meaning, reflect for 5 to 10 minutes, and live one action tied to that Name.",
+        "After each prayer: short dhikr set plus one sentence of gratitude (shukr) spoken or written.",
+        "Weekly: join or host a small circle for Qur'an, hadith, or reflection; offer one hidden act of charity or service.",
+        "Monthly: mini-retreat (half-day, phone off) for Qur'an, tears, journaling, and sincere dua.",
+        "Quarterly: review the Taqwa Ladder and rebalance self, family, community, ummah commitments."
       ],
       "practices": [
-        "Attach reflection to fixed cues (post-prayer, commute).",
-        "Use clean timer + shields; pair slips with immediate repair."
+        "Attach reflection to fixed cues (after Fajr, commute, before sleep) to build rhythm.",
+        "Pair every digital slip with immediate tawbah plus one service act, so relapse becomes repair instead of identity."
       ],
-      "tags": ["program","habits","reflection"],
+      "tags": [
+        "program",
+        "habits",
+        "reflection",
+        "service",
+        "detox"
+      ],
       "level": "intro",
-      "est_read_min": 5
+      "est_read_min": 6,
+      "long_en": "This program is intentionally light. The goal is not burnout. The goal is continuity. Daily: focus on one Name of Allah. Read a reliable meaning. Reflect for 5 to 10 minutes. Ask: How can I act by this Name today? For example, Ar-Rahman leads you to mercy toward someone who annoyed you. Al-Adl leads you to honesty in a business call. After each salah, do a short dhikr (astaghfirullah, alhamdulillah, subhanAllah, Allahu akbar) and speak or write one thing you are grateful for. Weekly: attend or create a tiny circle (even two or three people) for Qur'an and sincere talk. Do one hidden khidmah: money, time, emotional presence, advocacy for someone mistreated. Monthly: half-day retreat with phone off. Read Qur'an slowly, cry if you can, journal your state, make dua for your heart. Quarterly: revisit the Taqwa Ladder. Are you skipping self-care and pretending to save the world, or hiding from community out of ego? Adjust honestly. This rhythm aims to cultivate ihsan gently, not force overnight perfection.",
+      "long_tr": "Program özellikle hafif tutuldu. Amaç kendini yakmak değil; süreklilik kazanmak. Günlük: her gün sadece bir İsim. Güvenilir manasını oku. 5-10 dakika tefekkür et. Bugün bu İsimle nasıl yaşayabilirim diye sor. Mesela Rahman, seni rahatsız eden birine merhamet etmek olabilir. Adl, ticari konuşmada dürüstlük olabilir. Her farz namazdan sonra kısa zikir (estağfirullah, elhamdülillah, sübhanAllah, Allahu ekber) ve o gün için bir şükür cümlesi söyle ya da yaz. Haftalık: küçük bir halka (2-3 kişi bile olur) Kur'an ve tefekkür paylaşımı için. Gizli bir hizmet yap: para, zaman, duygusal destek, haksızlığa uğrayan için savunuculuk. Aylık: yarım günlük mini-itikaf, telefon kapalı. Kur'an'ı yavaş oku, mümkünse ağla, halini yaz, kalbin için dua et. Üç aylık: Takva Merdiveni'ni gözden geçir. Kendimi ihmal edip dünyayı kurtarıyorum rolüne mi kaçıyorum, yoksa topluluktan kaçıp ben merkezli mi kaldım. Dengele. Bu ritim ihsanı yavaş yavaş yerleştirmeyi hedefler; bir gecede kusursuzluk dayatmaz."
     },
     {
       "id": "glossary",
       "title": "Glossary of Core Terms",
-      "summary": "Quick meanings for the spiritual vocabulary used throughout.",
+      "summary": "Quick reference for recurring spiritual terms in this guide.",
       "bullets": [
-        "Ma'rifah: heart-knowledge of Allah that transforms worship.",
-        "Ihsan: worship Allah as if you see Him; if not, know He sees you.",
-        "Taqwa: guarding oneself from Allah’s displeasure.",
-        "Tawbah: sincere return with regret, abandonment, resolve, repair.",
-        "Fitrah: innate disposition oriented to truth and goodness."
+        "Ma'rifah: heart-knowledge of Allah that changes how you live, not just abstract info.",
+        "Ihsan: to worship Allah as if you see Him; if you do not, know He sees you (Hadith Jibril).",
+        "Taqwa: guarding yourself from Allah's displeasure by fulfilling His commands and avoiding His prohibitions.",
+        "Tawbah: sincere return with regret, immediate stopping, resolve, and repair, trusting Allah's mercy.",
+        "Fitrah: innate human disposition created to recognize and seek the One true Lord.",
+        "Riya': performing deeds to impress people instead of seeking Allah.",
+        "Nafs: the self or ego that pulls toward desire, pride, laziness, anger.",
+        "Hawa: misleading desire that demands instant gratification regardless of halal and haram.",
+        "Sabr: patient steadfastness under trial, loyal to Allah.",
+        "Shukr: deep gratitude in tongue, heart, and action."
       ],
       "level": "intro",
-      "est_read_min": 3
+      "est_read_min": 4,
+      "long_en": "Key terms: Ma'rifah is experiential knowing of Allah that produces love, awe, obedience, reliance, and service. It is not mere theory; it transforms behavior. Ihsan is the pinnacle spiritual state defined in Hadith Jibril, constant awareness that Allah sees you. Taqwa is guarding oneself from Allah's displeasure by fulfilling His commands and avoiding His prohibitions in private and public. Tawbah is returning to Allah with regret, immediate stopping, firm resolve, and repair. Allah loves the oft-returning ones. Fitrah is the original compass Allah placed in humans, inclined toward tawhid and goodness. Riya' is showing off, which poisons sincerity. Nafs is the self that must be trained, not worshipped. Hawa is unchecked desire; it whispers just this once or later I will repent. Sabr is active loyalty under hardship, not passive misery. Shukr is gratitude on the tongue (alhamdulillah), in the heart (contentment), and in the limbs (using blessings in halal).",
+      "long_tr": "Sık geçen kavramlar: Ma'rifet, Allah'ı kalben tanımak; bu tanıma sevgi, haşyet, itaat, tevekkül ve hizmet olarak hayata iner. Sadece teori değil; hayat tarzı değişimidir. İhsan, Cibril hadisinde tanımlanan zirve haldir: Allah'ı görüyormuş gibi ibadet etmek, göremesen de O'nun seni gördüğünü bilmek. Takva, Allah'ın razı olmayacağı şeyden sakınmak için O'nun emirlerini tutup yasaklarından kaçınmaktır; gizlide ve açıkta. Tevbe, Allah'a pişmanlıkla dönmek; hemen bırakmak; tekrar etmemeye azmetmek; mümkünse zararı telafi etmektir. Allah çokça tevbe eden kulları sever. Fıtrat, insana yerleştirilmiş tevhid ve hayır eğilimidir; içsel pusuladır. Riya, ibadeti Allah için değil insanların beğenisi için yapmak ve ameli zehirlemektir. Nefs, eğitilmesi gereken benliktir; yok edilmez ama terbiye edilir. Hevâ, kontrolsüz arzudur; sadece bu kez ya da sonra tevbe ederim diye fısıldar. Sabır, pasif katlanma değil; imtihan altında Allah'a sadakat ve sebatdır. Şükür, dil ile hamd, kalpte rıza ve nimeti helalde kullanma şeklinde yaşanır."
     },
     {
       "id": "method_bibliography",
       "title": "Method & Bibliography (Condensed)",
-      "summary": "Texts, methods, and disciplines we cross-wove, with humility about limits.",
+      "summary": "We braided Qur'an, Sunnah, kalam, tasawwuf, philosophy, cosmology, psychology, and habit science with adab and humility.",
       "bullets": [
-        "Method: text analysis (Qur’an/hadith), classical commentaries, comparative ethics, habit science, sociology of religion.",
-        "Primary: Qur’an; Sahih hadith; Ghazali (Ihya’), Nawawi, Ibn al-Qayyim.",
-        "Secondary: habit formation, attention science, meaning-in-life research; selected cosmology/philosophy of religion texts.",
-        "Limitations: cultural variance, measurement bias, riya’ risk—thus privacy-first metrics.",
-        "Ethic: mercy, dignity, gradualism; no exposure of private struggles."
+        "Method: textual analysis of Qur'an and hadith with context, classical commentary (tafsir), theology (kalam, aqidah), spiritual psychology (tasawwuf), plus modern habit and attention research.",
+        "Primary sources: Qur'an; Sahih hadith (Bukhari, Muslim); classical works like al-Ghazali's Ihya', al-Nawawi's Riyad as-Salihin, Ibn al-Qayyim's Madarij as-Salikin.",
+        "Theological schools: Ash'ari, Maturidi, and Athari / Salafi lines share core tawhid. They differ in how they articulate Attributes. We note differences respectfully.",
+        "Modern inputs: cosmology (expanding universe, entropy), fine-tuning arguments, psychology of awe, behavioral habit-formation, digital addiction studies.",
+        "Ethical guardrails: avoid overclaiming science as proof of Islam, avoid takfir, avoid riya, protect dignity, end with Allahu a'lam (Allah knows best)."
       ],
       "refs": [
-        "Al-Ghazali, Ihya’; Al-Nawawi, Riyad al-Salihin; Ibn al-Qayyim, Madarij.",
-        "Contemporary works on habits, attention, awe (general)."
+        "Qur'an (51:56; 41:53; 59:22-24; 107:4-6)",
+        "Hadith Jibril (Sahih Muslim); Imam al-Nawawi's collections; Riyad as-Salihin",
+        "Al-Ghazali, Ihya' Ulum ad-Din; Ibn al-Qayyim, Madarij as-Salikin; Tafsir of Fakhr al-Din al-Razi",
+        "Classical kalam on huduth and contingency; modern discussions of cosmology, fine-tuning, awe psychology, habit science"
       ],
       "level": "intermediate",
-      "est_read_min": 5
+      "est_read_min": 6,
+      "long_en": "This project stands on primary Islamic revelation first, then invites supporting insights from philosophy, science, and psychology. We are not saying modern science proves Islam in a simplistic way. We are saying: when you look at the cosmos, the nafs, and the social heart, you see patterns that harmonize with what revelation has called us to all along. Core sources include the Qur'an, approached with tafsir and context; the Sunnah, especially Sahih narrations such as Hadith Jibril that define Islam, Iman, and Ihsan; and classical works such as al-Ghazali's Ihya', al-Nawawi's Riyad as-Salihin and 40 Hadith, Ibn al-Qayyim's Madarij as-Salikin, and tafsir literature like Fakhr al-Din al-Razi. These link law, creed, and heart purification. Kalam offers arguments about Allah's existence and attributes from Ash'ari and Maturidi scholars, while Athari and Salafi voices emphasize affirming attributes without asking how. Tasawwuf focuses on ihsan, muraqabah, polishing the heart, and fighting riya. Modern disciplines add context: cosmology and entropy, fine-tuning, moral psychology (awe increases humility and pro-social behavior), habit science (environment design and streak protection), and digital well-being. We avoid weaponizing theology against other Muslims, avoid scientism that treats lab data like a god, and avoid performance piety. We keep mercy, dignity, and humility at the center. Allahu a'lam.",
+      "long_tr": "Bu çalışma önce vahye dayanır; sonra felsefe, bilim ve psikolojiden destekleyici işaretler devşirir. Modern bilim İslam'ı ispatlıyor gibi indirgemeci bir iddia değil. Kainata, nefse, toplumsal kalbe baktığında Kur'an'ın asırlardır çağırdığı hakikatle uyumlu izler görürsün. Temel kaynaklar: Kur'an (tefsir ve bağlamla okunur), Sünnet (özellikle İslam, iman ve ihsan tarifini veren Cibril hadisi gibi sahih rivayetler), klasik eserler (Gazali'nin İhya'sı, Nevevi'nin Riyazus Salihin'i ve 40 Hadis'i, İbn Kayyim'in Medaricu's Salikin'i, Fahreddin er-Razi gibi müfessirlerin tefsirleri). Bunlar fıkıh, akide ve kalp terbiyesini birbirine bağlı anlatır. Kelam, Eş'ari ve Maturidi çizgilerinde Allah'ın varlığı ve sıfatları konusunda akli deliller sunar; Selefi / Athari çizgi sıfatları teşbihsiz ve keyfiyetsiz isbat hassasiyetini vurgular. Tasavvuf, ihsanı, murakabeyi, riyaya karşı kalp cilalamayı öne çıkarır. Modern disiplinler kozmoloji (evrenin başlangıcı ve entropi), ince ayar, ahlak psikolojisi (huşu tevazuu artırır ve prososyal davranışı güçlendirir), alışkanlık bilimi (ortam tasarımı, seri koruması) ve dijital nefis muhasebesi gibi alanları getirir. Sınırlar: teolojiyi diğer Müslümanları vurmak için kullanmıyoruz; bilimi ilahlaştırmıyoruz; gösteriş dinine dönüşmemeye çalışıyoruz. Merkezde merhamet, haysiyet ve tevazu var. Allah en doğrusunu bilir."
     }
   ]
 }
