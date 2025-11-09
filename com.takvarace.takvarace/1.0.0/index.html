@@ -1,15 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <!-- Let Flutter replace this at build time -->
   <base href="/adilstore-webapps/com.takvarace.takvarace/1.0.0/">
+
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  <!-- iOS PWA goodness -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Takva">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
   <meta name="description" content="Takva privacy-first good deeds tracker">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <!-- PWA manifest -->
   <link rel="manifest" href="manifest.json">
+
+  <!-- Colors -->
+  <meta name="theme-color" content="#2E7D32">
+
   <title>Takva</title>
-  <script>const serviceWorkerVersion = null;</script>
+
+  <!-- If you’re not using a service worker, this can stay null -->
+  <script>const serviceWorkerVersion = "1633709160";</script>
   <script defer src="flutter.js"></script>
 </head>
 <body>
