@@ -1,0 +1,229 @@
+{
+  "appTitle": "Takva",
+
+  "pledgeTitle": "Niyet",
+  "pledgeText": "Haramdan kaçınmaya, tökezlediğimde tövbe ve telafi etmeye niyet ediyorum.",
+
+  "dashboard": "Panel",
+  "repentance": "Tövbe",
+  "diary": "Günlük",
+  "leaderboard": "Sıralama",
+  "shields": "Kalkanlar",
+  "settings": "Ayarlar",
+
+  "alias": "Rumuz",
+  "save": "Kaydet",
+  "edit": "Düzenle",
+
+  "cleanTimer": "Temiz Süre",
+  "startDay": "Güne niyetle başla",
+  "completeRepentance": "Tövbe paketini tamamla",
+
+  "quran": "Kur’an",
+  "dhikr": "Zikir",
+  "walk": "Yürüyüş",
+  "istighfar": "İstiğfar",
+  "twoRakah": "İki Rek’at Tövbe",
+  "zakat": "Zekât",
+  "sadaqah": "Sadaka",
+  "reflection": "Tefekkür",
+
+  "points": "Puan",
+  "week": "Hafta",
+  "language": "Dil",
+
+  "onboardingContinue": "Devam",
+  "anonymousPledge": "Sadece rumuzun ve haftalık puanın anonim şekilde paylaşılır. Diğer her şey bu cihazda kalır.",
+  "createAlias": "Bir rumuz seç",
+  "aliasHint": "3–24 karakter, boşluk yok",
+  "intentionPledge": "Niyetini tazele",
+  "startTracking": "Takibi başlat",
+
+  "onboardingWelcomeTitle": "Yoldaşına hoş geldin",
+  "onboardingWelcomeDescription": "Niyetini her gün canlı tutacak rehberli bir yolculuk oluştur.",
+  "onboardingSkip": "Atla",
+  "onboardingBack": "Geri",
+  "onboardingNext": "İleri",
+
+  "onboardingFocusTitle": "Geliştirmek istediğin alanları seç",
+  "onboardingFocusDescription": "Uyarıları, hızlı eklemeleri ve tefekkürleri sana göre uyarlayabilmemiz için birkaç odak alanı seç.",
+
+  "companionContentSubtitle": "Takva seni seçilmiş rehberliklerle destekler.",
+  "onboardingWelcomeCard1Title": "Kişisel günlük ritim",
+  "onboardingWelcomeCard1Body": "Öne çıkanlar, hızlı eklemeler ve rehberli istemler hedeflerine göre şekillenir.",
+  "onboardingWelcomeCard2Title": "Anlamlı muhasebe",
+  "onboardingWelcomeCard2Body": "Niyetini takip et, hızlıca tövbe et ve istikrarlı ilerleyişini kutla.",
+
+  "onboardingProfileTitle": "Profilini ayarla",
+  "onboardingProfileDescription": "Dil, rumuz ve paylaşım tercihlerin uygulama deneyimini şekillendirir.",
+  "onboardingDailyIntentionLabel": "Günlük niyet veya yönlendirici söz",
+  "onboardingDailyIntentionHint": "Örn. Her namazda bilinçli kal, şükürle hizmet et.",
+
+  "onboardingFocusPrayer": "Namaz disiplini",
+  "onboardingFocusQuran": "Kur’an bağı",
+  "onboardingFocusWellbeing": "İyi oluş ve denge",
+  "onboardingFocusCharity": "Sadaka ve hizmet",
+  "onboardingFocusKnowledge": "İlimde ilerleme",
+
+  "addEntry": "Kayıt ekle",
+  "freeTextPlaceholder": "Örn. 2 sayfa Kur’an okudum, 15dk yürüyüş, akşam zikri 33x",
+  "parse": "Çözümle",
+  "parsedEntries": "Tanımlanan ameller",
+  "unknownEntries": "Öneriler",
+
+  "repentanceFlow": "Tövbe Akışı",
+  "step": "Adım",
+  "finish": "Bitir",
+  "cancel": "İptal",
+
+  "weeklyScore": "Haftalık puan",
+  "shareScore": "Puanı anonim paylaş",
+  "noLeaderboard": "Sıralama gizli",
+  "leaderboardEmpty": "Bu hafta henüz kimse listede değil.",
+  "leaderboardEmptyHint": "Birisi puanını yeniden paylaştığında kayıtlar görünecek.",
+
+  "loading": "Yükleniyor...",
+  "lastFall": "Son düşüş",
+  "streak": "Seri",
+  "days": "gün",
+  "hours": "saat",
+  "minutes": "dakika",
+
+  "exportDiary": "Günlüğü dışa aktar",
+  "importDiary": "Günlüğü içe aktar",
+  "diaryEmpty": "Günlük boş",
+
+  "repentanceMultiplier": "Tövbe çarpanı",
+
+  "shieldGuides": "Kalkan rehberleri",
+  "enableShield": "Kalkan hatırlatıcısını aç",
+  "tasbihCounter": "Tesbih sayacı",
+  "breathingAid": "Nefes egzersizi",
+
+  "trend": "Haftalık trend",
+
+  "privacyMode": "Mahremiyet modu",
+  "enable": "Aç",
+  "disable": "Kapat",
+
+  "entryTitle": "Başlık",
+  "entryContent": "Notlar",
+  "tags": "Etiketler",
+
+  "companionGreeting": "Esselamu aleykum",
+  "companionSubtitle": "Bugünü şuurlu ameller ve ihlaslı tövbelerle anlamlı kılalım.",
+  "companionScoreError": "Haftalık puan şu anda yüklenemedi.",
+
+  "companionIntentionTitle": "Bugünün yönlendirici niyeti",
+  "companionIntentionFallback": "Odak alanını öne çıkarmak için onboarding sırasında bir niyet belirle.",
+  "editIntention": "Niyeti düzenle",
+
+  "companionFocusHeader": "Odak alanları",
+  "companionFocusEmpty": "Özgün tavsiyeler için onboarding’de bir odak seç.",
+
+  "companionContentTitle": "Günün öne çıkanları",
+  "companionCardMindfulTitle": "Farkındalıkla başla",
+  "companionCardMindfulBody": "Üç derin nefes al ve bu yolculuğu neden seçtiğini hatırla.",
+  "companionCardGratitudeTitle": "Tefekkür önerisi",
+  "companionCardGratitudeBody": "Gün bitmeden odak alanınla ilgili bir nimeti not et.",
+  "companionCardServiceTitle": "Küçük hizmet fikri",
+  "companionCardServiceBody": "Nazik bir söz söyle, bir dostu yokla veya odağına uygun faydalı bir bilgi paylaş.",
+
+  "companionQuickActionsTitle": "Hızlı ekle",
+  "companionQuickAdd": "Kaydedildi",
+  "longPressForOptions": "Seçenekler için uzun basın",
+  "configurePointsFirst": "Lütfen önce puanları yapılandır.",
+
+  "companionGuidedPrompts": "Rehberli istemler",
+  "companionGuidedPromptReflect": "Son bir başarını ve buna vesile olan sebebi düşün.",
+  "companionGuidedPromptGratitude": "Bugünkü niyetine bağlı bir şükür notu yaz.",
+  "companionGuidedPromptPlan": "Odak alanın için somut bir adım planla.",
+
+  "companionEntryHelperTitle": "Detaylı kayıt ekle",
+  "companionEntryHelperSubtitle": "Amellerini doğal biçimde yaz, biz çözümler ve puanları veririz.",
+
+  "companionFocusTipPrayer": "Namazlarını vaktinde kıl; ezanla birlikte kısa bir niyet tazelemesi yap.",
+  "companionFocusTipQuran": "Kur’an tilaveti için sabah serinliği veya namaz sonrası gibi düzenli bir zaman ayır.",
+  "companionFocusTipWellbeing": "Enerjini dengelemek için yenileyici molalar ver ve kısa bir yürüyüşle tazelen.",
+  "companionFocusTipCharity": "Hizmet fırsatları ara; bir komşuyu gözet veya faydalı bir hatırlatma paylaş.",
+  "companionFocusTipKnowledge": "Ders çalışmaya odaklı dakikalar ayır ve sonra tekrar etmek için bir içgörü not et.",
+
+  "dashboardTabOverview": "Günlük akış",
+  "dashboardTabFocus": "Odak atölyesi",
+
+  "dashboardGoalTitle": "Bugünün ruhunu seç",
+  "dashboardGoalDescription": "Hedefi değiştirerek paneldeki yönlendirme ve kutlamaları ayarlayabilirsin.",
+  "dashboardGoalSteadyTitle": "İstikrarlı tempo",
+  "dashboardGoalSteadySubtitle": "Hafta boyunca dengeli kalmak için ideal.",
+  "dashboardGoalGrowthTitle": "Gelişim atağı",
+  "dashboardGoalGrowthSubtitle": "Ritmini yükselt ve iddialı bir hedef kovala.",
+  "dashboardGoalReflectTitle": "Yumuşak tefekkür",
+  "dashboardGoalReflectSubtitle": "Alışkanlıklarını korurken hafif ilerle.",
+
+  "dashboardWeeklyProgressLabel": "Haftalık puan",
+  "dashboardWeeklyProgressHint": "Hedefe {points} puan kaldı",
+  "dashboardWeeklyProgressComplete": "Harika istikrar—bu niyeti yerine getiriyorsun!",
+
+  "dashboardPomodoroFocusComplete": "Odak seansı bitti. Moladan önce bilinçli bir nefes al.",
+  "dashboardPomodoroBreakComplete": "Mola tamamlandı. Hazırsan yeniden odaklan.",
+  "dashboardPomodoroFocus": "Odak seansı",
+  "dashboardPomodoroRest": "Mola seansı",
+  "dashboardPomodoroReset": "Zamanlayıcıyı sıfırla",
+  "dashboardPomodoroRunning": "Devam ediyor",
+  "dashboardPomodoroReady": "Hazır",
+  "dashboardPomodoroPause": "Duraklat",
+  "dashboardPomodoroStart": "Başlat",
+  "dashboardPomodoroSwitchToBreak": "Molaya geç",
+  "dashboardPomodoroBackToFocus": "Odağa dön",
+  "dashboardPomodoroCompleted": "Tamamlanan odak turları: {count}",
+  "dashboardPomodoroFocusLength": "Odak süresi",
+  "dashboardPomodoroBreakLength": "Mola süresi",
+
+  "settingsAliasTitle": "Rumuzun",
+  "settingsAliasHint": "Paylaşırsan bu ad, sıralamada görünecek.",
+  "settingsChangeAlias": "Rumuzu değiştir",
+  "settingsFocusAreas": "Odak alanları",
+  "settingsEditFocus": "Odak alanlarını düzenle",
+
+  "cleanSetStart": "Başlangıcı ayarla",
+  "cleanChangeStart": "Başlangıcı değiştir",
+  "cleanPickDate": "Tarih seç",
+  "cleanPickTime": "Saat seç",
+  "cleanClearStart": "Başlangıcı temizle",
+  "cleanSaved": "Kaydedildi",
+  "cleanInvalidDate": "Lütfen geçerli bir tarih ve saat seç.",
+
+  "diaryNewEntry": "Yeni kayıt",
+  "diarySearchHint": "Kayıtlarda ara…",
+  "diarySortBy": "Sırala",
+  "diaryNewestFirst": "En yeni önce",
+  "diaryOldestFirst": "En eski önce",
+  "diaryTitleAZ": "Başlık A–Z",
+  "diaryShare": "Paylaş",
+  "diaryCopy": "Kopyala",
+  "diaryCopied": "Panoya kopyalandı",
+  "diaryDelete": "Sil",
+  "diaryDeleted": "Kayıt silindi",
+  "diaryUndo": "Geri al",
+
+  "onboardingHowTitle": "Nasıl çalışır",
+  "onboardingHowDescription": "Bu nazik ve mahrem bir yoldaştır. Seni iyi amellere teşvik eder ve kaydetmene yardım eder—başka bir şey yapmaz.",
+
+  "onboardingPointsTitle": "Puanlar",
+  "onboardingPoints1": "Amellerini sen kaydedersin; uygulama sensör okumaz ve seni takip etmez.",
+  "onboardingPoints2": "Her amel, senin yapılandırmana göre puan verir.",
+  "onboardingPoints3": "Puanlar alışkanlıklarını teşvik etmek içindir; başkalarıyla kıyas için değil.",
+  "onboardingPointsTip": "Puan değerleri diline göre uyarlanan puan yapılandırmandan gelir.",
+
+  "onboardingGoalExplainTitle": "Temponu seç",
+  "onboardingGoalExplainBody": "Hedefler haftalıktır ve nazik eşiklerdir. Hayatına uyan bir temponu seç; dilediğinde değiştirebilirsin.",
+  "onboardingGoalChangeLater": "Bunu daha sonra Panel'den değiştirebilirsin.",
+
+  "onboardingPrivacyTitle": "Gizlilik",
+  "onboardingPrivacy1": "Verilerin cihazında kalır (isteğe bağlı paylaşılan puan hariç).",
+  "onboardingPrivacy2": "Kişisel içerik (günlük, niyet, notlar) sen göndermedikçe dışarı çıkmaz.",
+  "onboardingPrivacy3": "İstediğin zaman her şeyi dışa aktarabilir veya temizleyebilirsin.",
+  "onboardingPrivacyTip": "Bu uygulama seni izlemez; sadece hatırlamana ve gelişmene yardımcı olur.",
+
+  "onboardingCompanionDisclaimer": "Bu özel bir yoldaştır. Sayılar öz bildirime dayanır ve sadece tefekkür içindir."
+}

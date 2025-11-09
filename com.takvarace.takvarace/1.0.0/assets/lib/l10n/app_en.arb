@@ -1,0 +1,229 @@
+{
+  "appTitle": "Takva",
+
+  "pledgeTitle": "Intention",
+  "pledgeText": "I intend to avoid the unlawful and to repent and repair if I slip.",
+
+  "dashboard": "Dashboard",
+  "repentance": "Repentance",
+  "diary": "Diary",
+  "leaderboard": "Leaderboard",
+  "shields": "Shields",
+  "settings": "Settings",
+
+  "alias": "Alias",
+  "save": "Save",
+  "edit": "Edit",
+
+  "cleanTimer": "Clean Timer",
+  "startDay": "Start the day with intention",
+  "completeRepentance": "Complete repentance package",
+
+  "quran": "Qur'an",
+  "dhikr": "Dhikr",
+  "walk": "Walk",
+  "istighfar": "Istighfar",
+  "twoRakah": "Two Rak'ah Tawbah",
+  "zakat": "Zakat",
+  "sadaqah": "Sadaqah",
+  "reflection": "Reflection",
+
+  "points": "Points",
+  "week": "Week",
+  "language": "Language",
+
+  "onboardingContinue": "Continue",
+  "anonymousPledge": "Your alias and weekly score are shared anonymously. Everything else stays on this device.",
+  "createAlias": "Choose an alias",
+  "aliasHint": "3–24 characters, no spaces",
+  "intentionPledge": "Make your intention",
+  "startTracking": "Start tracking",
+
+  "onboardingWelcomeTitle": "Welcome to your companion",
+  "onboardingWelcomeDescription": "Craft a guided journey that keeps your intentions alive every day.",
+  "onboardingSkip": "Skip",
+  "onboardingBack": "Back",
+  "onboardingNext": "Next",
+
+  "onboardingFocusTitle": "Choose what you want to nurture",
+  "onboardingFocusDescription": "Select a few focus areas so we can tailor prompts, quick actions, and reflections for you.",
+
+  "companionContentSubtitle": "Takva keeps you supported with curated guidance.",
+  "onboardingWelcomeCard1Title": "Personalized daily rhythm",
+  "onboardingWelcomeCard1Body": "Highlights, quick adds, and guided prompts adapt to your goals.",
+  "onboardingWelcomeCard2Title": "Meaningful accountability",
+  "onboardingWelcomeCard2Body": "Track intentions, repent swiftly, and celebrate steady progress.",
+
+  "onboardingProfileTitle": "Set your profile",
+  "onboardingProfileDescription": "Language, alias, and sharing preferences shape the experience across the app.",
+  "onboardingDailyIntentionLabel": "Daily intention or guiding phrase",
+  "onboardingDailyIntentionHint": "E.g. Stay mindful with every prayer, serve with gratitude.",
+
+  "onboardingFocusPrayer": "Prayer discipline",
+  "onboardingFocusQuran": "Qur'an connection",
+  "onboardingFocusWellbeing": "Wellbeing & balance",
+  "onboardingFocusCharity": "Charity & service",
+  "onboardingFocusKnowledge": "Knowledge growth",
+
+  "addEntry": "Add entry",
+  "freeTextPlaceholder": "E.g. Read 2 pages Qur'an, 15m walk, evening dhikr 33x",
+  "parse": "Parse",
+  "parsedEntries": "Recognized deeds",
+  "unknownEntries": "Suggestions",
+
+  "repentanceFlow": "Repentance Flow",
+  "step": "Step",
+  "finish": "Finish",
+  "cancel": "Cancel",
+
+  "weeklyScore": "Weekly score",
+  "shareScore": "Share score anonymously",
+  "noLeaderboard": "Leaderboard hidden",
+  "leaderboardEmpty": "No companions on the board yet this week.",
+  "leaderboardEmptyHint": "Entries appear once someone shares their score again.",
+
+  "loading": "Loading...",
+  "lastFall": "Last fall",
+  "streak": "Streak",
+  "days": "days",
+  "hours": "hours",
+  "minutes": "minutes",
+
+  "exportDiary": "Export diary",
+  "importDiary": "Import diary",
+  "diaryEmpty": "Diary is empty",
+
+  "repentanceMultiplier": "Repentance multiplier",
+
+  "shieldGuides": "Shield guides",
+  "enableShield": "Enable shield reminder",
+  "tasbihCounter": "Tasbih counter",
+  "breathingAid": "Breathing aid",
+
+  "trend": "Weekly trend",
+
+  "privacyMode": "Private mode",
+  "enable": "Enable",
+  "disable": "Disable",
+
+  "entryTitle": "Title",
+  "entryContent": "Notes",
+  "tags": "Tags",
+
+  "companionGreeting": "Assalamu alaikum",
+  "companionSubtitle": "Let's make today purposeful with mindful actions and sincere repentance.",
+  "companionScoreError": "Unable to load your weekly score right now.",
+
+  "companionIntentionTitle": "Today's guiding intention",
+  "companionIntentionFallback": "Set an intention during onboarding to keep your focus front and center.",
+  "editIntention": "Edit intention",
+
+  "companionFocusHeader": "Focus areas",
+  "companionFocusEmpty": "Choose a focus during onboarding to unlock tailored tips.",
+
+  "companionContentTitle": "Daily highlights",
+  "companionCardMindfulTitle": "Mindful start",
+  "companionCardMindfulBody": "Begin with three slow breaths and recall why you chose this journey.",
+  "companionCardGratitudeTitle": "Reflection cue",
+  "companionCardGratitudeBody": "Note one blessing tied to your current focus area before the day ends.",
+  "companionCardServiceTitle": "Small service idea",
+  "companionCardServiceBody": "Offer a kind word, check on a friend, or share knowledge relevant to your focus.",
+
+  "companionQuickActionsTitle": "Quick add",
+  "companionQuickAdd": "Logged",
+  "longPressForOptions": "Long-press for options",
+  "configurePointsFirst": "Please configure points first.",
+
+  "companionGuidedPrompts": "Guided prompts",
+  "companionGuidedPromptReflect": "Reflect on a recent win and what enabled it.",
+  "companionGuidedPromptGratitude": "Write a gratitude note connected to today's intention.",
+  "companionGuidedPromptPlan": "Plan one concrete action for your focus area.",
+
+  "companionEntryHelperTitle": "Add a detailed entry",
+  "companionEntryHelperSubtitle": "Describe your deeds naturally—we'll parse and assign points for you.",
+
+  "companionFocusTipPrayer": "Anchor your prayers on time. Pair the adhan with a brief intention reset before you stand.",
+  "companionFocusTipQuran": "Set a consistent recitation slot—morning light or after prayer—to deepen your Qur'an connection.",
+  "companionFocusTipWellbeing": "Balance your energy with restorative breaks and a short walk to refresh your state.",
+  "companionFocusTipCharity": "Look for micro-moments to serve—support a neighbor or share a beneficial reminder.",
+  "companionFocusTipKnowledge": "Dedicate focused minutes to studying and summarize one insight to revisit later.",
+
+  "dashboardTabOverview": "Daily flow",
+  "dashboardTabFocus": "Focus lab",
+
+  "dashboardGoalTitle": "Choose today's vibe",
+  "dashboardGoalDescription": "Switch goals to tune how your dashboard nudges and celebrates you.",
+  "dashboardGoalSteadyTitle": "Steady momentum",
+  "dashboardGoalSteadySubtitle": "A balanced cadence to stay consistent all week.",
+  "dashboardGoalGrowthTitle": "Growth sprint",
+  "dashboardGoalGrowthSubtitle": "Amp up your rhythm and chase a bold target.",
+  "dashboardGoalReflectTitle": "Gentle reflection",
+  "dashboardGoalReflectSubtitle": "Keep things light while protecting your habits.",
+
+  "dashboardWeeklyProgressLabel": "Weekly points",
+  "dashboardWeeklyProgressHint": "{points} points to reach this goal",
+  "dashboardWeeklyProgressComplete": "Beautiful consistency—you're meeting this intention!",
+
+  "dashboardPomodoroFocusComplete": "Focus session complete. Take a mindful breath before your break.",
+  "dashboardPomodoroBreakComplete": "Break wrapped up. When you're ready, dive back into focus.",
+  "dashboardPomodoroFocus": "Focus session",
+  "dashboardPomodoroRest": "Break session",
+  "dashboardPomodoroReset": "Reset timer",
+  "dashboardPomodoroRunning": "In progress",
+  "dashboardPomodoroReady": "Ready",
+  "dashboardPomodoroPause": "Pause",
+  "dashboardPomodoroStart": "Start",
+  "dashboardPomodoroSwitchToBreak": "Switch to break",
+  "dashboardPomodoroBackToFocus": "Back to focus",
+  "dashboardPomodoroCompleted": "Completed focus rounds: {count}",
+  "dashboardPomodoroFocusLength": "Focus length",
+  "dashboardPomodoroBreakLength": "Break length",
+
+  "settingsAliasTitle": "Your alias",
+  "settingsAliasHint": "This name appears on the leaderboard if you share your score.",
+  "settingsChangeAlias": "Change alias",
+  "settingsFocusAreas": "Focus areas",
+  "settingsEditFocus": "Edit focus areas",
+
+  "cleanSetStart": "Set start",
+  "cleanChangeStart": "Change start",
+  "cleanPickDate": "Pick date",
+  "cleanPickTime": "Pick time",
+  "cleanClearStart": "Clear start",
+  "cleanSaved": "Saved",
+  "cleanInvalidDate": "Please pick a valid date and time.",
+
+  "diaryNewEntry": "New entry",
+  "diarySearchHint": "Search entries…",
+  "diarySortBy": "Sort by",
+  "diaryNewestFirst": "Newest first",
+  "diaryOldestFirst": "Oldest first",
+  "diaryTitleAZ": "Title A–Z",
+  "diaryShare": "Share",
+  "diaryCopy": "Copy",
+  "diaryCopied": "Copied to clipboard",
+  "diaryDelete": "Delete",
+  "diaryDeleted": "Entry deleted",
+  "diaryUndo": "Undo",
+
+  "onboardingHowTitle": "How it works",
+  "onboardingHowDescription": "This is a gentle, private companion. It reminds you of good deeds and helps you track them—nothing more.",
+
+  "onboardingPointsTitle": "Points",
+  "onboardingPoints1": "You log your own actions; the app does not read sensors or track you.",
+  "onboardingPoints2": "Each action gives points based on your configuration.",
+  "onboardingPoints3": "Use points to nudge habits—not to compare yourself with others.",
+  "onboardingPointsTip": "Point values come from your points config and adapt to your language.",
+
+  "onboardingGoalExplainTitle": "Choose your pace",
+  "onboardingGoalExplainBody": "Goals are weekly, gentle targets. Pick a pace that fits your life; you can change it any time.",
+  "onboardingGoalChangeLater": "You can change this later from the Dashboard.",
+
+  "onboardingPrivacyTitle": "Privacy",
+  "onboardingPrivacy1": "Your data stays on your device (except the optional shared score).",
+  "onboardingPrivacy2": "Personal content (journal, intention, notes) is never sent without your action.",
+  "onboardingPrivacy3": "You can export or clear everything whenever you like.",
+  "onboardingPrivacyTip": "This app doesn’t watch you; it just helps you remember and grow.",
+
+  "onboardingCompanionDisclaimer": "This is a private companion. Numbers are self-reported and meant for reflection only."
+}
